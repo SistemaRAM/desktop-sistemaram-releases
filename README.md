@@ -36,7 +36,7 @@ Exemplo: `v17.1.0.0`, `v17.1.2.3`, `v17.2.0.0`
 
 Para questões relacionadas ao download ou instalação:
 
-- Abra um [ticket no suporte](https://wa.me/5519997514469)
+- Abra um [ticket no suporte](https://wa.me/5519993617069?text=Ajuda%20com%20download%20do%20sistema)
 - Entre em contato com a equipe de suporte interno
 
 ## 📄 Licença
