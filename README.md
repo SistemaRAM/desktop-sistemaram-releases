@@ -8,7 +8,7 @@ Este repositório centraliza todas as versões compiladas do sistema Desktop Sis
 
 ## 🔄 Versionamento
 
-- **YEAR**: 
+- **YEAR**: Tempo de vida do sistema (anos desde o lançamento inicial)
 - **MAJOR**: Mudanças incompatíveis com versões anteriores
 - **MINOR**: Novas funcionalidades mantendo compatibilidade
 - **PATCH**: Correções de bugs e melhorias
@@ -36,7 +36,7 @@ Exemplo: `v17.1.0.0`, `v17.1.2.3`, `v17.2.0.0`
 
 Para questões relacionadas ao download ou instalação:
 
-- Abra uma [tiket no suporte](https://wa.me/5519997514469)
+- Abra um [ticket no suporte](https://wa.me/5519997514469)
 - Entre em contato com a equipe de suporte interno
 
 ## 📄 Licença
