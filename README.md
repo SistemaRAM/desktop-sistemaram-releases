@@ -13,6 +13,10 @@ Este repositório centraliza todas as versões compiladas do sistema Desktop Sis
 - **MINOR**: Novas funcionalidades mantendo compatibilidade
 - **PATCH**: Correções de bugs e melhorias
 
+## 🔄 Versionamento dos Add-ons
+
+- **add-ons.<versao>**: O RAManager encontra os addons seguindo esse padrão de asset.
+
 ## 📦 Estrutura de Versões
 
 As versões do sistema são organizadas por tags no formato:
