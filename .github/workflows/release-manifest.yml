@@ -1,0 +1,140 @@
+name: Release Manifest
+
+on:
+  create
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-manifest
+  cancel-in-progress: false
+
+jobs:
+  update-manifest:
+    if: github.event.ref_type == 'tag'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Resolve product & target file
+        id: resolve
+        run: |
+          set -euo pipefail
+          TAG="${{ github.event.ref }}"
+
+          if [[ "$TAG" =~ ^(manager|comandas|instaladores|drivers|add-?ons)\.(.+)$ ]]; then
+            PRODUCT="${BASH_REMATCH[1]}"
+          else
+            PRODUCT=""
+          fi
+
+          case "$PRODUCT" in
+            manager) FILE="releases-manager.json" ;;
+            comandas) FILE="releases-comandas.json" ;;
+            instaladores) FILE="releases-instaladores.json" ;;
+            drivers) FILE="releases-drivers.json" ;;
+            add-ons|addons) FILE="releases-addons.json" ;;
+            *) FILE="releases.json" ;;
+          esac
+
+          echo "Tag: $TAG -> file: $FILE"
+          {
+            echo "tag=$TAG"
+            echo "file=$FILE"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Wait for release & fetch data
+        id: release
+        env:
+          TAG: ${{ steps.resolve.outputs.tag }}
+        run: |
+          set -euo pipefail
+          ATTEMPTS=10
+          SLEEP=15
+          RELEASE_JSON=""
+
+          for i in $(seq 1 "$ATTEMPTS"); do
+            if RELEASE_JSON=$(gh release view "$TAG" --json name,url,assets 2>/dev/null); then
+              break
+            fi
+            RELEASE_JSON=""
+            echo "Release for tag $TAG not found yet (attempt $i/$ATTEMPTS), retrying in ${SLEEP}s..."
+            sleep "$SLEEP"
+          done
+
+          if [ -z "$RELEASE_JSON" ]; then
+            echo "No release found for $TAG after $ATTEMPTS attempts. Falling back to defaults."
+            NAME="$TAG"
+            LINK="https://github.com/$GH_REPO/releases/tag/$TAG"
+            echo '[]' > anexos.json
+          else
+            NAME=$(echo "$RELEASE_JSON" | jq -r '.name // empty')
+            [ -z "$NAME" ] && NAME="$TAG"
+            LINK=$(echo "$RELEASE_JSON" | jq -r '.url')
+            echo "$RELEASE_JSON" | jq '[.assets[] | {name: .name, url: .url, size: .size}]' > anexos.json
+          fi
+
+          {
+            echo "name=$NAME"
+            echo "link=$LINK"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Update manifest
+        env:
+          TAG: ${{ steps.resolve.outputs.tag }}
+          FILE: ${{ steps.resolve.outputs.file }}
+          NAME: ${{ steps.release.outputs.name }}
+          LINK: ${{ steps.release.outputs.link }}
+        run: |
+          set -euo pipefail
+          [ -f "$FILE" ] || echo '{}' > "$FILE"
+
+          jq -n \
+            --arg name "$NAME" \
+            --arg tag "$TAG" \
+            --arg link "$LINK" \
+            --slurpfile anexos anexos.json \
+            '{name: $name, tag: $tag, link: $link, anexos: $anexos[0]}' > entry.json
+
+          jq --arg tag "$TAG" --slurpfile entry entry.json \
+            '.[$tag] = $entry[0]' "$FILE" > "$FILE.tmp"
+          mv "$FILE.tmp" "$FILE"
+
+          rm -f entry.json anexos.json
+
+      - name: Commit & push manifest
+        env:
+          FILE: ${{ steps.resolve.outputs.file }}
+          TAG: ${{ steps.resolve.outputs.tag }}
+          BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$FILE"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: add $TAG to $FILE"
+
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then
+              exit 0
+            fi
+            echo "Push failed (attempt $i/5), retrying..."
+            sleep 5
+          done
+
+          echo "Failed to push manifest update after 5 attempts."
+          exit 1
