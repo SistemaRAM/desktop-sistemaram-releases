@@ -1,7 +1,7 @@
 name: Release Manifest
 
 on:
-  create
+  create:
   workflow_dispatch:
     inputs:
       tag:
