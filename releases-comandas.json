@@ -1,0 +1,38 @@
+{
+  "comandas.0.0.1": {
+    "name": "comandas.0.0.1",
+    "tag": "comandas.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.0.0.1",
+    "anexos": [
+      {
+        "name": "Server_040226.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/comandas.0.0.1/Server_040226.exe",
+        "size": 14376448
+      }
+    ]
+  },
+  "comandas.1.0.0.0": {
+    "name": "comandas.1.0.0.0",
+    "tag": "comandas.1.0.0.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.1.0.0.0",
+    "anexos": [
+      {
+        "name": "Server.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/comandas.1.0.0.0/Server.exe",
+        "size": 14376448
+      }
+    ]
+  },
+  "comandas.1.0.0.1": {
+    "name": "comandas.1.0.0.1",
+    "tag": "comandas.1.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.1.0.0.1",
+    "anexos": [
+      {
+        "name": "Server.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/comandas.1.0.0.1/Server.exe",
+        "size": 14376960
+      }
+    ]
+  }
+}

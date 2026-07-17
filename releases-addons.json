@@ -1,0 +1,44 @@
+{
+  "addons.0.0.1": {
+    "name": "Add-ons",
+    "tag": "addons.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/addons.0.0.1",
+    "anexos": [
+      {
+        "name": "DLL.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/DLL.zip",
+        "size": 73733924
+      },
+      {
+        "name": "ImpressoraSystem.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/ImpressoraSystem.exe",
+        "size": 2470912
+      },
+      {
+        "name": "LayoutsFast.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/LayoutsFast.zip",
+        "size": 161074
+      },
+      {
+        "name": "Login.ini",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/Login.ini",
+        "size": 31
+      },
+      {
+        "name": "RAMCredito.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/RAMCredito.exe",
+        "size": 4485120
+      },
+      {
+        "name": "RAMPrinter.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/RAMPrinter.zip",
+        "size": 374199080
+      },
+      {
+        "name": "Schemas.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.1/Schemas.zip",
+        "size": 7936916
+      }
+    ]
+  }
+}

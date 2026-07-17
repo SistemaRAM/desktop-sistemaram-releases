@@ -1,0 +1,19 @@
+{
+  "instaladores.0.0.1": {
+    "name": "Instaladores",
+    "tag": "instaladores.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/instaladores.0.0.1",
+    "anexos": [
+      {
+        "name": "InstaladorRAMSolutionServer.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/instaladores.0.0.1/InstaladorRAMSolutionServer.exe",
+        "size": 1752064
+      },
+      {
+        "name": "InstaladorRAMSolutionTerminal.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/instaladores.0.0.1/InstaladorRAMSolutionTerminal.exe",
+        "size": 5362176
+      }
+    ]
+  }
+}
