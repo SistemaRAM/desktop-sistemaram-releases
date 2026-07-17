@@ -10,5 +10,1625 @@
         "size": 42262016
       }
     ]
+  },
+  "17.0.4.13": {
+    "name": "17.0.4.13",
+    "tag": "17.0.4.13",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.13",
+    "anexos": [
+      {
+        "name": "17.0.4.13.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.13/17.0.4.13.exe",
+        "size": 39837696
+      }
+    ]
+  },
+  "17.0.4.15": {
+    "name": "17.0.4.15",
+    "tag": "17.0.4.15",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.15",
+    "anexos": [
+      {
+        "name": "17.0.4.15.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.15/17.0.4.15.exe",
+        "size": 39832576
+      }
+    ]
+  },
+  "17.0.4.17": {
+    "name": "17.0.4.17",
+    "tag": "17.0.4.17",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.17",
+    "anexos": [
+      {
+        "name": "17.0.4.17.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.17/17.0.4.17.exe",
+        "size": 39837184
+      }
+    ]
+  },
+  "17.0.4.18": {
+    "name": "17.0.4.18",
+    "tag": "17.0.4.18",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.18",
+    "anexos": [
+      {
+        "name": "17.0.4.18.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.18/17.0.4.18.exe",
+        "size": 39833600
+      }
+    ]
+  },
+  "17.0.4.19": {
+    "name": "17.0.4.19",
+    "tag": "17.0.4.19",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.19",
+    "anexos": [
+      {
+        "name": "17.0.4.19.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.19/17.0.4.19.exe",
+        "size": 39840256
+      }
+    ]
+  },
+  "17.0.4.21": {
+    "name": "17.0.4.21",
+    "tag": "17.0.4.21",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.21",
+    "anexos": [
+      {
+        "name": "17.0.4.21.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.21/17.0.4.21.exe",
+        "size": 39851520
+      }
+    ]
+  },
+  "17.0.4.22": {
+    "name": "17.0.4.22",
+    "tag": "17.0.4.22",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.22",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.22/RAMSolution.exe",
+        "size": 39856128
+      }
+    ]
+  },
+  "17.0.4.23": {
+    "name": "17.0.4.23",
+    "tag": "17.0.4.23",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.23",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.23/RAMSolution.exe",
+        "size": 39853056
+      }
+    ]
+  },
+  "17.0.4.24": {
+    "name": "17.0.4.24",
+    "tag": "17.0.4.24",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.24",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.24/RAMSolution.exe",
+        "size": 39855104
+      }
+    ]
+  },
+  "17.0.4.25": {
+    "name": "17.0.4.25",
+    "tag": "17.0.4.25",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.25",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.25/RAMSolution.exe",
+        "size": 39888384
+      }
+    ]
+  },
+  "17.0.4.26": {
+    "name": "17.0.4.26",
+    "tag": "17.0.4.26",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.26",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.26/RAMSolution.exe",
+        "size": 39887360
+      }
+    ]
+  },
+  "17.0.4.27": {
+    "name": "17.0.4.27",
+    "tag": "17.0.4.27",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.27",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.27/RAMSolution.exe",
+        "size": 39885824
+      }
+    ]
+  },
+  "17.0.4.28": {
+    "name": "17.0.4.28",
+    "tag": "17.0.4.28",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.28",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.28/RAMSolution.exe",
+        "size": 39886848
+      }
+    ]
+  },
+  "17.0.4.29": {
+    "name": "17.0.4.29",
+    "tag": "17.0.4.29",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.29",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.29/RAMSolution.exe",
+        "size": 39888896
+      }
+    ]
+  },
+  "17.0.4.30": {
+    "name": "17.0.4.30",
+    "tag": "17.0.4.30",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.30",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.30/RAMSolution.exe",
+        "size": 39885824
+      }
+    ]
+  },
+  "17.0.4.31": {
+    "name": "17.0.4.31",
+    "tag": "17.0.4.31",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.31",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.31/RAMSolution.exe",
+        "size": 39889408
+      }
+    ]
+  },
+  "17.0.4.32": {
+    "name": "17.0.4.32",
+    "tag": "17.0.4.32",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.32",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.32/RAMSolution.exe",
+        "size": 39883264
+      }
+    ]
+  },
+  "17.0.4.33": {
+    "name": "17.0.4.33",
+    "tag": "17.0.4.33",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.33",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.33/RAMSolution.exe",
+        "size": 39760384
+      }
+    ]
+  },
+  "17.0.4.34": {
+    "name": "17.0.4.34",
+    "tag": "17.0.4.34",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.34",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.34/RAMSolution.exe",
+        "size": 39759872
+      }
+    ]
+  },
+  "17.0.4.36": {
+    "name": "17.0.4.36",
+    "tag": "17.0.4.36",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.36",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.36/RAMSolution.exe",
+        "size": 39763456
+      }
+    ]
+  },
+  "17.0.4.37": {
+    "name": "17.0.4.37",
+    "tag": "17.0.4.37",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.37",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.37/RAMSolution.exe",
+        "size": 39764992
+      }
+    ]
+  },
+  "17.0.4.38": {
+    "name": "17.0.4.38",
+    "tag": "17.0.4.38",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.38",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.38/RAMSolution.exe",
+        "size": 39765504
+      }
+    ]
+  },
+  "17.0.4.39": {
+    "name": "17.0.4.39",
+    "tag": "17.0.4.39",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.39",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.39/RAMSolution.exe",
+        "size": 39762944
+      }
+    ]
+  },
+  "17.0.4.40": {
+    "name": "17.0.4.40",
+    "tag": "17.0.4.40",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.40",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.40/RAMSolution.exe",
+        "size": 39766016
+      }
+    ]
+  },
+  "17.0.4.41": {
+    "name": "17.0.4.41",
+    "tag": "17.0.4.41",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.41",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.41/RAMSolution.exe",
+        "size": 39764992
+      }
+    ]
+  },
+  "17.0.4.42": {
+    "name": "17.0.4.42",
+    "tag": "17.0.4.42",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.42",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.42/RAMSolution.exe",
+        "size": 39764992
+      }
+    ]
+  },
+  "17.0.4.43": {
+    "name": "17.0.4.43",
+    "tag": "17.0.4.43",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.43",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.43/RAMSolution.exe",
+        "size": 39763968
+      }
+    ]
+  },
+  "17.0.4.45": {
+    "name": "17.0.4.45",
+    "tag": "17.0.4.45",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.45",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.45/RAMSolution.exe",
+        "size": 39769088
+      }
+    ]
+  },
+  "17.0.4.46": {
+    "name": "17.0.4.46",
+    "tag": "17.0.4.46",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.46",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.46/RAMSolution.exe",
+        "size": 39767040
+      }
+    ]
+  },
+  "17.0.4.47": {
+    "name": "17.0.4.47",
+    "tag": "17.0.4.47",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.47",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.47/RAMSolution.exe",
+        "size": 39770624
+      }
+    ]
+  },
+  "17.0.4.48": {
+    "name": "17.0.4.48",
+    "tag": "17.0.4.48",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.48",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.48/RAMSolution.exe",
+        "size": 39772672
+      }
+    ]
+  },
+  "17.0.4.49": {
+    "name": "17.0.4.49",
+    "tag": "17.0.4.49",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.49",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.49/RAMSolution.exe",
+        "size": 39771648
+      }
+    ]
+  },
+  "17.0.4.50": {
+    "name": "17.0.4.50",
+    "tag": "17.0.4.50",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.50",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.50/RAMSolution.exe",
+        "size": 39769600
+      }
+    ]
+  },
+  "17.0.4.51": {
+    "name": "17.0.4.51",
+    "tag": "17.0.4.51",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.51",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.51/RAMSolution.exe",
+        "size": 39767552
+      }
+    ]
+  },
+  "17.0.4.52": {
+    "name": "17.0.4.52",
+    "tag": "17.0.4.52",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.52",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.52/RAMSolution.exe",
+        "size": 39767552
+      }
+    ]
+  },
+  "17.0.4.53": {
+    "name": "17.0.4.53",
+    "tag": "17.0.4.53",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.53",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.53/RAMSolution.exe",
+        "size": 39769600
+      }
+    ]
+  },
+  "17.0.4.54": {
+    "name": "17.0.4.54",
+    "tag": "17.0.4.54",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.54",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.54/RAMSolution.exe",
+        "size": 39770112
+      }
+    ]
+  },
+  "17.0.4.55": {
+    "name": "17.0.4.55",
+    "tag": "17.0.4.55",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.55",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.55/RAMSolution.exe",
+        "size": 39771648
+      }
+    ]
+  },
+  "17.0.4.56": {
+    "name": "17.0.4.56",
+    "tag": "17.0.4.56",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.56",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.56/RAMSolution.exe",
+        "size": 39768576
+      }
+    ]
+  },
+  "17.0.4.57": {
+    "name": "17.0.4.57",
+    "tag": "17.0.4.57",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.57",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.57/RAMSolution.exe",
+        "size": 39773696
+      }
+    ]
+  },
+  "17.0.4.58": {
+    "name": "17.0.4.58",
+    "tag": "17.0.4.58",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.58",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.58/RAMSolution.exe",
+        "size": 39768064
+      }
+    ]
+  },
+  "17.0.4.59": {
+    "name": "17.0.4.59",
+    "tag": "17.0.4.59",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.59",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.59/RAMSolution.exe",
+        "size": 39752192
+      }
+    ]
+  },
+  "17.0.4.60": {
+    "name": "17.0.4.60",
+    "tag": "17.0.4.60",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.60",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.60/RAMSolution.exe",
+        "size": 39797760
+      }
+    ]
+  },
+  "17.0.4.61": {
+    "name": "17.0.4.61",
+    "tag": "17.0.4.61",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.61",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.61/RAMSolution.exe",
+        "size": 39803904
+      }
+    ]
+  },
+  "17.0.4.62": {
+    "name": "17.0.4.62",
+    "tag": "17.0.4.62",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.62",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.62/RAMSolution.exe",
+        "size": 39807488
+      }
+    ]
+  },
+  "17.0.4.63": {
+    "name": "17.0.4.63",
+    "tag": "17.0.4.63",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.63",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.63/RAMSolution.exe",
+        "size": 39808000
+      }
+    ]
+  },
+  "17.0.4.64": {
+    "name": "17.0.4.64",
+    "tag": "17.0.4.64",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.64",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.64/RAMSolution.exe",
+        "size": 39804928
+      }
+    ]
+  },
+  "17.0.4.65": {
+    "name": "17.0.4.65",
+    "tag": "17.0.4.65",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.65",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.65/RAMSolution.exe",
+        "size": 39806464
+      }
+    ]
+  },
+  "17.0.4.66": {
+    "name": "17.0.4.66",
+    "tag": "17.0.4.66",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.66",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.66/RAMSolution.exe",
+        "size": 39805440
+      }
+    ]
+  },
+  "17.0.4.67": {
+    "name": "17.0.4.67",
+    "tag": "17.0.4.67",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.67",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.67/RAMSolution.exe",
+        "size": 39805952
+      }
+    ]
+  },
+  "17.0.4.68": {
+    "name": "17.0.4.68",
+    "tag": "17.0.4.68",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.68",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.68/RAMSolution.exe",
+        "size": 39808512
+      }
+    ]
+  },
+  "17.0.4.69": {
+    "name": "17.0.4.69",
+    "tag": "17.0.4.69",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.69",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.69/RAMSolution.exe",
+        "size": 39803904
+      }
+    ]
+  },
+  "17.0.4.70": {
+    "name": "17.0.4.70",
+    "tag": "17.0.4.70",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.70",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.70/RAMSolution.exe",
+        "size": 39813120
+      }
+    ]
+  },
+  "17.0.4.71": {
+    "name": "17.0.4.71",
+    "tag": "17.0.4.71",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.71",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.71/RAMSolution.exe",
+        "size": 39777280
+      }
+    ]
+  },
+  "17.0.4.72": {
+    "name": "17.0.4.72",
+    "tag": "17.0.4.72",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.72",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.72/RAMSolution.exe",
+        "size": 39776768
+      }
+    ]
+  },
+  "17.0.4.74": {
+    "name": "17.0.4.74",
+    "tag": "17.0.4.74",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.74",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.74/RAMSolution.exe",
+        "size": 41460736
+      }
+    ]
+  },
+  "17.0.4.75": {
+    "name": "17.0.4.75",
+    "tag": "17.0.4.75",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.75",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.75/RAMSolution.exe",
+        "size": 41456128
+      }
+    ]
+  },
+  "17.0.4.76": {
+    "name": "17.0.4.76",
+    "tag": "17.0.4.76",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.76",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.76/RAMSolution.exe",
+        "size": 41458688
+      }
+    ]
+  },
+  "17.0.4.77": {
+    "name": "17.0.4.77",
+    "tag": "17.0.4.77",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.77",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.77/RAMSolution.exe",
+        "size": 41692160
+      }
+    ]
+  },
+  "17.0.4.78": {
+    "name": "17.0.4.78",
+    "tag": "17.0.4.78",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.78",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.78/RAMSolution.exe",
+        "size": 41691136
+      }
+    ]
+  },
+  "17.0.4.79": {
+    "name": "17.0.4.79",
+    "tag": "17.0.4.79",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.79",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.79/RAMSolution.exe",
+        "size": 41692160
+      }
+    ]
+  },
+  "17.0.4.80": {
+    "name": "17.0.4.80",
+    "tag": "17.0.4.80",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.80",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.80/RAMSolution.exe",
+        "size": 41693184
+      }
+    ]
+  },
+  "17.0.4.81": {
+    "name": "17.0.4.81",
+    "tag": "17.0.4.81",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.81",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.4.81/RAMSolution.exe",
+        "size": 41690112
+      }
+    ]
+  },
+  "17.0.5.0": {
+    "name": "17.0.5.0",
+    "tag": "17.0.5.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.0",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.0/RAMSolution.exe",
+        "size": 41724928
+      }
+    ]
+  },
+  "17.0.5.1": {
+    "name": "17.0.5.1",
+    "tag": "17.0.5.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.1",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.1/RAMSolution.exe",
+        "size": 41695232
+      }
+    ]
+  },
+  "17.0.5.2": {
+    "name": "17.0.5.2",
+    "tag": "17.0.5.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.2",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.2/RAMSolution.exe",
+        "size": 41702400
+      }
+    ]
+  },
+  "17.0.5.3": {
+    "name": "17.0.5.3",
+    "tag": "17.0.5.3",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.3",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.3/RAMSolution.exe",
+        "size": 41703936
+      }
+    ]
+  },
+  "17.0.5.4": {
+    "name": "17.0.5.4",
+    "tag": "17.0.5.4",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.4",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.4/RAMSolution.exe",
+        "size": 41700864
+      }
+    ]
+  },
+  "17.0.5.5": {
+    "name": "17.0.5.5",
+    "tag": "17.0.5.5",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.5",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.5/RAMSolution.exe",
+        "size": 41736192
+      }
+    ]
+  },
+  "17.0.5.6": {
+    "name": "17.0.5.6",
+    "tag": "17.0.5.6",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.6",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.6/RAMSolution.exe",
+        "size": 41736192
+      }
+    ]
+  },
+  "17.0.5.7": {
+    "name": "17.0.5.7",
+    "tag": "17.0.5.7",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.7",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.7/RAMSolution.exe",
+        "size": 41706496
+      }
+    ]
+  },
+  "17.0.5.8": {
+    "name": "17.0.5.8",
+    "tag": "17.0.5.8",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.8",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.8/RAMSolution.exe",
+        "size": 41728000
+      }
+    ]
+  },
+  "17.0.5.9": {
+    "name": "17.0.5.9",
+    "tag": "17.0.5.9",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.9",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.9/RAMSolution.exe",
+        "size": 41729536
+      }
+    ]
+  },
+  "17.0.5.10": {
+    "name": "17.0.5.10",
+    "tag": "17.0.5.10",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.10",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.10/RAMSolution.exe",
+        "size": 41726976
+      }
+    ]
+  },
+  "17.0.5.11": {
+    "name": "17.0.5.11",
+    "tag": "17.0.5.11",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.11",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.11/RAMSolution.exe",
+        "size": 41727488
+      }
+    ]
+  },
+  "17.0.5.12": {
+    "name": "17.0.5.12",
+    "tag": "17.0.5.12",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.12",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.12/RAMSolution.exe",
+        "size": 41729536
+      }
+    ]
+  },
+  "17.0.5.14": {
+    "name": "17.0.5.14",
+    "tag": "17.0.5.14",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.14",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.14/RAMSolution.exe",
+        "size": 41729536
+      }
+    ]
+  },
+  "17.0.5.15": {
+    "name": "15.0.5.15",
+    "tag": "17.0.5.15",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.15",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.15/RAMSolution.exe",
+        "size": 41949184
+      }
+    ]
+  },
+  "17.0.5.16": {
+    "name": "17.0.5.16",
+    "tag": "17.0.5.16",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.16",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.16/RAMSolution.exe",
+        "size": 41944576
+      }
+    ]
+  },
+  "17.0.5.17": {
+    "name": "17.0.5.17",
+    "tag": "17.0.5.17",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.17",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.17/RAMSolution.exe",
+        "size": 41951232
+      }
+    ]
+  },
+  "17.0.5.18": {
+    "name": "17.0.5.18",
+    "tag": "17.0.5.18",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.18",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/17.0.5.18/RAMSolution.exe",
+        "size": 41974272
+      }
+    ]
+  },
+  "18.0.0.0": {
+    "name": "18.0.0.0",
+    "tag": "18.0.0.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.0",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.0/RAMSolution.exe",
+        "size": 41979904
+      }
+    ]
+  },
+  "18.0.0.1": {
+    "name": "18.0.0.1",
+    "tag": "18.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.1",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.1/RAMSolution.exe",
+        "size": 41977856
+      }
+    ]
+  },
+  "18.0.0.2": {
+    "name": "18.0.0.2",
+    "tag": "18.0.0.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.2",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.2/RAMSolution.exe",
+        "size": 41994752
+      }
+    ]
+  },
+  "18.0.0.3": {
+    "name": "18.0.0.3",
+    "tag": "18.0.0.3",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.3",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.3/RAMSolution.exe",
+        "size": 41994752
+      }
+    ]
+  },
+  "18.0.0.4": {
+    "name": "18.0.0.4",
+    "tag": "18.0.0.4",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.4",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.4/RAMSolution.exe",
+        "size": 42000384
+      }
+    ]
+  },
+  "18.0.0.5": {
+    "name": "18.0.0.5",
+    "tag": "18.0.0.5",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.5",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.5/RAMSolution.exe",
+        "size": 42006016
+      }
+    ]
+  },
+  "18.0.0.6": {
+    "name": "18.0.0.6",
+    "tag": "18.0.0.6",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.6",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.6/RAMSolution.exe",
+        "size": 42003456
+      }
+    ]
+  },
+  "18.0.0.7": {
+    "name": "18.0.0.7",
+    "tag": "18.0.0.7",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.7",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.7/RAMSolution.exe",
+        "size": 42006016
+      }
+    ]
+  },
+  "18.0.0.8": {
+    "name": "18.0.0.8",
+    "tag": "18.0.0.8",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.8",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.8/RAMSolution.exe",
+        "size": 41994752
+      }
+    ]
+  },
+  "18.0.0.9": {
+    "name": "18.0.0.9",
+    "tag": "18.0.0.9",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.9",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.9/RAMSolution.exe",
+        "size": 41994240
+      }
+    ]
+  },
+  "18.0.0.10": {
+    "name": "18.0.0.10",
+    "tag": "18.0.0.10",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.10",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.10/RAMSolution.exe",
+        "size": 41993216
+      }
+    ]
+  },
+  "18.0.0.11": {
+    "name": "18.0.0.11",
+    "tag": "18.0.0.11",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.11",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.11/RAMSolution.exe",
+        "size": 41993728
+      }
+    ]
+  },
+  "18.0.0.12": {
+    "name": "18.0.0.12",
+    "tag": "18.0.0.12",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.12",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.12/RAMSolution.exe",
+        "size": 42009600
+      }
+    ]
+  },
+  "18.0.0.14": {
+    "name": "18.0.0.14",
+    "tag": "18.0.0.14",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.14",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.14/RAMSolution.exe",
+        "size": 42009088
+      }
+    ]
+  },
+  "18.0.0.15": {
+    "name": "18.0.0.15",
+    "tag": "18.0.0.15",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.15",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.15/RAMSolution.exe",
+        "size": 42009088
+      }
+    ]
+  },
+  "18.0.0.16": {
+    "name": "18.0.0.16",
+    "tag": "18.0.0.16",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.16",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.16/RAMSolution.exe",
+        "size": 42012160
+      }
+    ]
+  },
+  "18.0.0.17": {
+    "name": "18.0.0.17",
+    "tag": "18.0.0.17",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.17",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.17/RAMSolution.exe",
+        "size": 42011648
+      }
+    ]
+  },
+  "18.0.0.18": {
+    "name": "18.0.0.18",
+    "tag": "18.0.0.18",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.18",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.18/RAMSolution.exe",
+        "size": 42010624
+      }
+    ]
+  },
+  "18.0.0.19": {
+    "name": "18.0.0.19",
+    "tag": "18.0.0.19",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.19",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.19/RAMSolution.exe",
+        "size": 42011136
+      }
+    ]
+  },
+  "18.0.0.20": {
+    "name": "18.0.0.20",
+    "tag": "18.0.0.20",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.20",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.20/RAMSolution.exe",
+        "size": 42013184
+      }
+    ]
+  },
+  "18.0.0.21": {
+    "name": "18.0.0.21",
+    "tag": "18.0.0.21",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.21",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.21/RAMSolution.exe",
+        "size": 41999360
+      }
+    ]
+  },
+  "18.0.0.22": {
+    "name": "18.0.0.22",
+    "tag": "18.0.0.22",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.22",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.22/RAMSolution.exe",
+        "size": 41999872
+      }
+    ]
+  },
+  "18.0.0.23": {
+    "name": "18.0.0.23",
+    "tag": "18.0.0.23",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.23",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.23/RAMSolution.exe",
+        "size": 41988096
+      }
+    ]
+  },
+  "18.0.0.24": {
+    "name": "18.0.0.24",
+    "tag": "18.0.0.24",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.24",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.24/RAMSolution.exe",
+        "size": 41961984
+      }
+    ]
+  },
+  "18.0.0.25": {
+    "name": "18.0.0.25",
+    "tag": "18.0.0.25",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.25",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.25/RAMSolution.exe",
+        "size": 41959424
+      }
+    ]
+  },
+  "18.0.0.26": {
+    "name": "18.0.0.26",
+    "tag": "18.0.0.26",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.26",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.26/RAMSolution.exe",
+        "size": 41961472
+      }
+    ]
+  },
+  "18.0.0.27": {
+    "name": "18.0.0.27",
+    "tag": "18.0.0.27",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.27",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.27/RAMSolution.exe",
+        "size": 42034688
+      }
+    ]
+  },
+  "18.0.0.28": {
+    "name": "18.0.0.28",
+    "tag": "18.0.0.28",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.28",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.28/RAMSolution.exe",
+        "size": 42033664
+      }
+    ]
+  },
+  "18.0.0.29": {
+    "name": "18.0.0.29",
+    "tag": "18.0.0.29",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.29",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.29/RAMSolution.exe",
+        "size": 42163712
+      }
+    ]
+  },
+  "18.0.0.30": {
+    "name": "18.0.0.30",
+    "tag": "18.0.0.30",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.30",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.30/RAMSolution.exe",
+        "size": 42159616
+      }
+    ]
+  },
+  "18.0.0.31": {
+    "name": "18.0.0.31",
+    "tag": "18.0.0.31",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.31",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.31/RAMSolution.exe",
+        "size": 42159616
+      }
+    ]
+  },
+  "18.0.0.32": {
+    "name": "18.0.0.32",
+    "tag": "18.0.0.32",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.32",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.32/RAMSolution.exe",
+        "size": 42116608
+      }
+    ]
+  },
+  "18.0.0.33": {
+    "name": "18.0.0.33",
+    "tag": "18.0.0.33",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.33",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.33/RAMSolution.exe",
+        "size": 42114048
+      }
+    ]
+  },
+  "18.0.0.34": {
+    "name": "18.0.0.34",
+    "tag": "18.0.0.34",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.34",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.34/RAMSolution.exe",
+        "size": 42112000
+      }
+    ]
+  },
+  "18.0.0.35": {
+    "name": "18.0.0.35",
+    "tag": "18.0.0.35",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.35",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.35/RAMSolution.exe",
+        "size": 42113536
+      }
+    ]
+  },
+  "18.0.0.36": {
+    "name": "18.0.0.36",
+    "tag": "18.0.0.36",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.36",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.36/RAMSolution.exe",
+        "size": 42112512
+      }
+    ]
+  },
+  "18.0.0.37": {
+    "name": "18.0.0.37",
+    "tag": "18.0.0.37",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.37",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.37/RAMSolution.exe",
+        "size": 42112000
+      }
+    ]
+  },
+  "18.0.0.39": {
+    "name": "18.0.0.39",
+    "tag": "18.0.0.39",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.39",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.39/RAMSolution.exe",
+        "size": 42128384
+      }
+    ]
+  },
+  "18.0.0.40": {
+    "name": "18.0.0.40",
+    "tag": "18.0.0.40",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.40",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.0.40/RAMSolution.exe",
+        "size": 42125824
+      }
+    ]
+  },
+  "18.0.1.0": {
+    "name": "18.0.1.0",
+    "tag": "18.0.1.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.0",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.0/RAMSolution.exe",
+        "size": 42126848
+      }
+    ]
+  },
+  "18.0.1.1": {
+    "name": "18.0.1.1",
+    "tag": "18.0.1.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.1",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.1/RAMSolution.exe",
+        "size": 42142720
+      }
+    ]
+  },
+  "18.0.1.2": {
+    "name": "18.0.1.2",
+    "tag": "18.0.1.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.2",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.2/RAMSolution.exe",
+        "size": 42143744
+      }
+    ]
+  },
+  "18.0.1.3": {
+    "name": "18.0.1.3",
+    "tag": "18.0.1.3",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.3",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.3/RAMSolution.exe",
+        "size": 42143744
+      }
+    ]
+  },
+  "18.0.1.4": {
+    "name": "18.0.1.4",
+    "tag": "18.0.1.4",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.4",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.4/RAMSolution.exe",
+        "size": 42140160
+      }
+    ]
+  },
+  "18.0.1.5": {
+    "name": "18.0.1.5",
+    "tag": "18.0.1.5",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.5",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.5/RAMSolution.exe",
+        "size": 42137088
+      }
+    ]
+  },
+  "18.0.1.6": {
+    "name": "18.0.1.6",
+    "tag": "18.0.1.6",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.6",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.6/RAMSolution.exe",
+        "size": 42136576
+      }
+    ]
+  },
+  "18.0.1.7": {
+    "name": "18.0.1.7",
+    "tag": "18.0.1.7",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.7",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.7/RAMSolution.exe",
+        "size": 42152448
+      }
+    ]
+  },
+  "18.0.1.8": {
+    "name": "18.0.1.8",
+    "tag": "18.0.1.8",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.8",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.8/RAMSolution.exe",
+        "size": 42148352
+      }
+    ]
+  },
+  "18.0.1.9": {
+    "name": "18.0.1.9",
+    "tag": "18.0.1.9",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.9",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.9/RAMSolution.exe",
+        "size": 42247168
+      }
+    ]
+  },
+  "18.0.1.10": {
+    "name": "18.0.1.10",
+    "tag": "18.0.1.10",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.10",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.10/RAMSolution.exe",
+        "size": 42259456
+      }
+    ]
+  },
+  "18.0.1.11": {
+    "name": "18.0.1.11",
+    "tag": "18.0.1.11",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.11",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.11/RAMSolution.exe",
+        "size": 42232320
+      }
+    ]
+  },
+  "18.0.1.12": {
+    "name": "18.0.1.12",
+    "tag": "18.0.1.12",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.12",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.12/RAMSolution.exe",
+        "size": 42266112
+      }
+    ]
+  },
+  "18.0.1.13": {
+    "name": "18.0.1.13",
+    "tag": "18.0.1.13",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.13",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.13/RAMSolution.exe",
+        "size": 42257920
+      }
+    ]
+  },
+  "18.0.1.14": {
+    "name": "18.0.1.14",
+    "tag": "18.0.1.14",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.14",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.14/RAMSolution.exe",
+        "size": 42256896
+      }
+    ]
   }
 }
