@@ -3,6 +3,7 @@
     "name": "Instaladores",
     "tag": "instaladores.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/instaladores.0.0.1",
+    "description": "## **Release de Instaladores**\r\n\r\nEsta release traz os Instaladores utilizados pelo **SistemaRAM**.\r\n\r\n### Instaladores\r\n\r\n- InstaladorRAMSolutionServer.exe\r\n- InstaladorRAMSolutionTerminal.exe\r\n---\r\n\r\n> Caso encontre qualquer problema, utilize a aba **Issues** para reportar.\r",
     "anexos": [
       {
         "name": "InstaladorRAMSolutionServer.exe",

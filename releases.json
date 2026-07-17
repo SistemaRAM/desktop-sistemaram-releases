@@ -3,6 +3,7 @@
     "name": "18.0.1.15",
     "tag": "18.0.1.15",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.15",
+    "description": "Ajustes importação de Pedidos HUB RAM\r\n- Importação do pedido com Tabela de Preço padrão.\r\n- Forma de pagamento marketplace x sistema\r\n\r\nTela de Pesagem\r\n- Nova etiqueta de informações de manuseio do produto.\r\n\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -15,6 +16,7 @@
     "name": "17.0.4.13",
     "tag": "17.0.4.13",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.13",
+    "description": "",
     "anexos": [
       {
         "name": "17.0.4.13.exe",
@@ -27,6 +29,7 @@
     "name": "17.0.4.15",
     "tag": "17.0.4.15",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.15",
+    "description": "",
     "anexos": [
       {
         "name": "17.0.4.15.exe",
@@ -39,6 +42,7 @@
     "name": "17.0.4.17",
     "tag": "17.0.4.17",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.17",
+    "description": "",
     "anexos": [
       {
         "name": "17.0.4.17.exe",
@@ -51,6 +55,7 @@
     "name": "17.0.4.18",
     "tag": "17.0.4.18",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.18",
+    "description": "17.0.4.18",
     "anexos": [
       {
         "name": "17.0.4.18.exe",
@@ -63,6 +68,7 @@
     "name": "17.0.4.19",
     "tag": "17.0.4.19",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.19",
+    "description": "17.0.4.19",
     "anexos": [
       {
         "name": "17.0.4.19.exe",
@@ -75,6 +81,7 @@
     "name": "17.0.4.21",
     "tag": "17.0.4.21",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.21",
+    "description": "17.0.4.21\r\n\r\n**SBR | Add validação em pedidos de transferência para não permitir um ped com item repetido e mesmo lote**\r\n[](https://trello.com/c/HfhmfNFV/43-sbr-add-valida%C3%A7%C3%A3o-em-pedidos-de-transfer%C3%AAncia-para-n%C3%A3o-permitir-um-ped-com-item-repetido-e-mesmo-lote)\r\n\r\n**Kovalik | Add filtro tp_op = 99 nos lançamentos de ajuste feitos pela tela Ajuste de Estoque (FECHAMENTOF)**\r\n[](https://trello.com/c/b8bUTkyM/91-kovalik-add-filtro-tpop-99-nos-lan%C3%A7amentos-de-ajuste-feitos-pela-tela-ajuste-de-estoque-fechamentof)\r\n\r\n**SBR | Rotina reenviar API (boleto)**\r\n[](https://trello.com/c/6OzXLFmo/95-sbr-rotina-reenviar-api-boleto)\r\n\r\n**Nalin | Preenchimento cBenef**\r\n[](https://trello.com/c/GYTJKwzy/89-nalin-preenchimento-cbenef)\r\n\r",
     "anexos": [
       {
         "name": "17.0.4.21.exe",
@@ -87,6 +94,7 @@
     "name": "17.0.4.22",
     "tag": "17.0.4.22",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.22",
+    "description": "\r\nKovalik | Ao atualizar o saldo de um produto pai o valor não é atualizado na tabela multiestoque\r\n\r\nhttps://trello.com/c/lQRvW7EQ/98-kovalik-ao-atualizar-o-saldo-de-um-produto-pai-o-valor-n%C3%A3o-%C3%A9-atualizado-na-tabela-multiestoque\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -99,6 +107,7 @@
     "name": "17.0.4.23",
     "tag": "17.0.4.23",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.23",
+    "description": "Ajuste na importação de comandas do PDV.\r\nAo importar uma comanda e o sistema tem o novo app comandas, é enviado um comando para a nuvem, deixando o campo IMPRESSO = 1 para limpar o histórico da comanda na nuvem.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -111,6 +120,7 @@
     "name": "17.0.4.24",
     "tag": "17.0.4.24",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.24",
+    "description": "Ajustes:\r\n\r\nKovalik - trava saldo negativo na tela de transferência\r\n\r\nSBR - Baixa de boleto pela tela de API/Retorno.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -123,6 +133,7 @@
     "name": "17.0.4.25",
     "tag": "17.0.4.25",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.25",
+    "description": "SBR - Ajuste no retorno Itaú via API para baixar mais de 30 títulos.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -135,6 +146,7 @@
     "name": "17.0.4.26",
     "tag": "17.0.4.26",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.26",
+    "description": "Ajuste no total do pedido PDV quando a venda contem apenas o item que não é para cobrar os 10% de serviço.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -147,6 +159,7 @@
     "name": "17.0.4.27",
     "tag": "17.0.4.27",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.27",
+    "description": "\r\nCorreção validação saldo negativo na transferência entre empresas. \"No sql estava considerando o codemp origem errado\"\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -159,6 +172,7 @@
     "name": "17.0.4.28",
     "tag": "17.0.4.28",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.28",
+    "description": "Ajuste na tela de CTe, puxar \"OBS. de Venda\" do cadastro geral e gravar a \"Qtd\" da tela de cubagem na tela principal do CTe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -171,6 +185,7 @@
     "name": "17.0.4.29",
     "tag": "17.0.4.29",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.29",
+    "description": "Correções na tela de \"Ajuste de Estoque\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -183,6 +198,7 @@
     "name": "17.0.4.30",
     "tag": "17.0.4.30",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.30",
+    "description": "Baixa Arquivo CNAB, ao gerar financeiro de Juros ou Desconto - deixar o \"Tipo de Venda\" de acordo com a parcela principal da baixa.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -195,6 +211,7 @@
     "name": "17.0.4.31",
     "tag": "17.0.4.31",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.31",
+    "description": "Ajuste \"Ordem de Produção\" com status \"Espera\", baixar a matéria prima e não gera o produto final.\r\n ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -207,6 +224,7 @@
     "name": "17.0.4.32",
     "tag": "17.0.4.32",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.32",
+    "description": "Correção para calcular a % de redução no ICMS do produto, quando realizado uma devolução via XML.\r\n\r\nCorreção em Orçamentos/Pedidos, quando o dia do vencimento do cliente é 30, mas o mês é Fevereiro. Ajuste para deixar no último dia do mês.\r\n\r\nPrint da tela \"Tela de Relatórios - Financeiro\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -219,6 +237,7 @@
     "name": "17.0.4.33",
     "tag": "17.0.4.33",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.33",
+    "description": "PDV - Emissão Cupom \"Não Fiscal\" + \"Fiscal\" juntos.\r\nProdução - troca dos labels para tratar \"Maturação\" - Queijo\r\nEstoque, Transferência de Produtos X Empresas - Ajuste das casas decimais.\r\nCTe, ajuste para buscar \"Custo Add\" do remetente ou destinatário de acordo com \"Pagamento\".  ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -231,6 +250,7 @@
     "name": "17.0.4.34",
     "tag": "17.0.4.34",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.34",
+    "description": "Ajustes:\r\n1 - Correção validação ao gravar o pedido com status não permitido\r\n2 - Casas decimais no grid de saldo das empresas",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -243,6 +263,7 @@
     "name": "17.0.4.36",
     "tag": "17.0.4.36",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.36",
+    "description": "Trava na transferência, não permitir \"recusar\" um registro \"aceito\".\r\nAlerta de crédito disponível na tela - \"Orçamentos/Pedidos\".\r\nCalculo da porcentagem da nota fiscal pelo valor do frete ao fechar tela de cubagem.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -255,6 +276,7 @@
     "name": "17.0.4.37",
     "tag": "17.0.4.37",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.37",
+    "description": "Ajustes na tela de transferência de estoque entre empresas.\r\nOcultar botão \"apagar\" tela de ajuste do estoque.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -267,6 +289,7 @@
     "name": "17.0.4.38",
     "tag": "17.0.4.38",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.38",
+    "description": "Ajuste casas decimais no \"banco de dados\" X Tela de Transferência de Estoque entre Empresas.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -279,6 +302,7 @@
     "name": "17.0.4.39",
     "tag": "17.0.4.39",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.39",
+    "description": "Correção do bug ao selecionar um pedido na tela de consulta. Orçamentos/Pedidos",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -291,6 +315,7 @@
     "name": "17.0.4.40",
     "tag": "17.0.4.40",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.40",
+    "description": "Correção bug nas datas ao alterar forma de pagamento pela tela PDV - Gerente.\r\nAjuste copiar pedido entre empresas, deixar status \"PEDIDO\" cliente 37.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -303,6 +328,7 @@
     "name": "17.0.4.41",
     "tag": "17.0.4.41",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.41",
+    "description": "Ocultar botão \"apagar\" tela de transferência estoque entre empresas.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -315,6 +341,7 @@
     "name": "17.0.4.42",
     "tag": "17.0.4.42",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.42",
+    "description": "Ajuste formatação casas decimais tela de consulta de produtos.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -327,6 +354,7 @@
     "name": "17.0.4.43",
     "tag": "17.0.4.43",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.43",
+    "description": "Erro ao criar um novo pedido.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -339,6 +367,7 @@
     "name": "17.0.4.45",
     "tag": "17.0.4.45",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.45",
+    "description": "Ajuste na tela Orçamentos/Pedidos, quando o pedidos é NF parcial, estava gerando a primeira parcela com valor negativo.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -351,6 +380,7 @@
     "name": "17.0.4.46",
     "tag": "17.0.4.46",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.46",
+    "description": "Pasta \"Temp\" modificada para dentro da pasta do sistema.\r\nAjustes na tela de Transferência de Estoque entre empresas, \"Travas\".\r\nAjuste na tela de \"Ajuste de Estoque\", \"Travas\".\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -363,6 +393,7 @@
     "name": "17.0.4.47",
     "tag": "17.0.4.47",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.47",
+    "description": "Ajustes telas:\r\n- Ajuste de Estoque.\r\n- Transferência de estoque.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -375,6 +406,7 @@
     "name": "17.0.4.48",
     "tag": "17.0.4.48",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.48",
+    "description": "Correção BUG, ao dividir a linha do produto no pedido quando o lote não atende 100% a quantidade, estava dando erro ao gravar o lote na linha correta.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -387,6 +419,7 @@
     "name": "17.0.4.49",
     "tag": "17.0.4.49",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.49",
+    "description": "Ajustes ref. ao lote do produto na tela de orçamentos/pedidos para enviar os dados para a NFe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -399,6 +432,7 @@
     "name": "17.0.4.50",
     "tag": "17.0.4.50",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.50",
+    "description": "Ajuste impressão pedido de transferência.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -411,6 +445,7 @@
     "name": "17.0.4.51",
     "tag": "17.0.4.51",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.51",
+    "description": "Ajustes\r\n- Trava estoque saldo negativo.\r\n- NFe com SIFRAMA, enviar tag indDeduzDeson = 1",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -423,6 +458,7 @@
     "name": "17.0.4.52",
     "tag": "17.0.4.52",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.52",
+    "description": "Ajuste campo **indDeduzDeson** para quando NFe é SUFRAMA.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -435,6 +471,7 @@
     "name": "17.0.4.53",
     "tag": "17.0.4.53",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.53",
+    "description": "Ajuste na NFe com SUFRAMA, não destacar o valor da desoneração do ICMS no campo desconto vDesc.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -447,6 +484,7 @@
     "name": "17.0.4.54",
     "tag": "17.0.4.54",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.54",
+    "description": "Correção na tela de ajuste do estoque, gravando CODEMP correto.\r\nCorreção da rotina para enviar XML/DANFE para a transportadora quando vinculada na NFe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -459,6 +497,7 @@
     "name": "17.0.4.55",
     "tag": "17.0.4.55",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.55",
+    "description": "Configuração do Boleto, adicionado campo \"Espécie do Título\".\r\nNa aba movimentação do estoque, ajustado atalho \"Acessar registro origem\" quando é proveniente de uma \"Desossa\", abrir a tela da desossa.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -471,6 +510,7 @@
     "name": "17.0.4.56",
     "tag": "17.0.4.56",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.56",
+    "description": "Ajuste na tela de \"Fechamento Especial\"\r\n\r\n- Não permitir agrupar financeiro/parcela com nosso número de boleto já gerado.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -483,6 +523,7 @@
     "name": "17.0.4.57",
     "tag": "17.0.4.57",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.57",
+    "description": "Realizar a atualização do NCM no cadastro do produto, pela entrada do XML.\r\nParâmetro: **RAM_COM_NCM_IMPORTAR_XML**",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -495,6 +536,7 @@
     "name": "17.0.4.58",
     "tag": "17.0.4.58",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.58",
+    "description": "Ajuste na tela de transferência entre empresas, erro de casas decimais na verificação do saldo negativo.\r\nMelhoria CTe, atualizar campo custo adicional.\r\nAtualização meios de pagamento da NFe/NFCe.\r\nNo PDV, não permitir emitir cupom sem enviar para impressora sem selecionar a forma de pagamento.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -507,6 +549,7 @@
     "name": "17.0.4.59",
     "tag": "17.0.4.59",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.59",
+    "description": "Correção na rotina que verifica saldo quando já existe o pedido no estoque. Precisa considerar a quantidade do item na verificação.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -519,6 +562,7 @@
     "name": "17.0.4.60",
     "tag": "17.0.4.60",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.60",
+    "description": "Liberação calculo CBS / IBS para CTe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -531,6 +575,7 @@
     "name": "17.0.4.61",
     "tag": "17.0.4.61",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.61",
+    "description": "Add logo no cupom não fiscal emitido pela tela \"Orçamentos/Pedidos\".\r\nNovo campo \"Frete R$\" no \"Cadastro Geral\" que é utilizado na tela \"Orçamentos/Pedidos\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -543,6 +588,7 @@
     "name": "17.0.4.62",
     "tag": "17.0.4.62",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.62",
+    "description": "Orçamentos / Pedidos:\r\nAdicionado campo \"local\" no relatório de número 90\r\nOpção para mostrar \"Placa\" e \"Motorista\" da rota na aba inf. de entrega. - RAM_COM_MOSTRAR_NOME_MOT_PLACA",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -555,6 +601,7 @@
     "name": "17.0.4.63",
     "tag": "17.0.4.63",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.63",
+    "description": "Ordem de Produção:\r\nCaso o usuário não informe a quantidade solicitada, o sistema preencherá automaticamente com a quantidade utilizada.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -567,6 +614,7 @@
     "name": "17.0.4.64",
     "tag": "17.0.4.64",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.64",
+    "description": "Arquivos Relacionados:\r\nAjuste realizado para que o arquivo seja salvo na pasta TEMP do sistema, em vez de ser armazenado no disco local (C:).",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -579,6 +627,7 @@
     "name": "17.0.4.65",
     "tag": "17.0.4.65",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.65",
+    "description": "Cadastro de Produtos, correção erro COD_PEDIDO_BONO.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -591,6 +640,7 @@
     "name": "17.0.4.66",
     "tag": "17.0.4.66",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.66",
+    "description": "Ajustes:\r\n1.  Add ajuste de margem pelo arquivo \"ConfigMargens.ini\" para a etiqueta: Horizontal - 3 Col. 3,5 X 3,0\r\n2. Correções ortográficas na tela \"Tela de Cobrança\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -603,6 +653,7 @@
     "name": "17.0.4.67",
     "tag": "17.0.4.67",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.67",
+    "description": "Tela de Cobrança\r\nAjuste no filtro, não puxar financeiro que foram agrupados.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -615,6 +666,7 @@
     "name": "17.0.4.68",
     "tag": "17.0.4.68",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.68",
+    "description": "Transferência Estoque entre Empresas:\r\n- Bloqueio na recusa, é permitido recusar apenas na empresa que criou a transferência.\r\n\r\nOrçamentos/Pedidos\r\n- Devolução por XML puxar campos IBS/CBS da nota referenciada",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -627,6 +679,7 @@
     "name": "17.0.4.69",
     "tag": "17.0.4.69",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.69",
+    "description": "CTe.\r\nCampo observação do cadastro geral, adicionar em uma aba Obs. Interna.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -639,6 +692,7 @@
     "name": "17.0.4.70",
     "tag": "17.0.4.70",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.70",
+    "description": "Cupom Não Fiscal, problema na impressão - layout.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -651,6 +705,7 @@
     "name": "17.0.4.71",
     "tag": "17.0.4.71",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.71",
+    "description": "Ajuste na devolução via XML, correção PIS/COFINS.\r\n ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -663,6 +718,7 @@
     "name": "17.0.4.72",
     "tag": "17.0.4.72",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.72",
+    "description": "CTe.\r\nAjuste XML vIBS\r\nMelhoria campo Obs interna.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -675,6 +731,7 @@
     "name": "17.0.4.74",
     "tag": "17.0.4.74",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.74",
+    "description": "Ajustes:\r\n\r\n- MDFe com duas apolice.\r\n- Ordenação por \"Código\" na Tela ajuste de estoque.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -687,6 +744,7 @@
     "name": "17.0.4.75",
     "tag": "17.0.4.75",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.75",
+    "description": "Ajuste em Orçamentos/Pedidos\r\n- Opção de copiar/colar o pedido.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -699,6 +757,7 @@
     "name": "17.0.4.76",
     "tag": "17.0.4.76",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.76",
+    "description": "Tela Relatório de Notas\r\n- Ajuste na exportação de Excel.\r\n\r\nOrçamentos/Pedidos\r\n- Correção do boleto com desconto no valor.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -711,6 +770,7 @@
     "name": "17.0.4.77",
     "tag": "17.0.4.77",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.77",
+    "description": "Ajuste na rotina que trata CFOP ao gerar a Nota Fiscal. \r\n- CFOP Produto x Regra Fiscal.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -723,6 +783,7 @@
     "name": "17.0.4.78",
     "tag": "17.0.4.78",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.78",
+    "description": "Ajustar Nome do Arquivo CNAB, utilizando o campo \"Iniciais do Arquivo\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -735,6 +796,7 @@
     "name": "17.0.4.79",
     "tag": "17.0.4.79",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.79",
+    "description": "Adicionado na regra fiscal os campos (Alíquota de PIS/COFINS).",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -747,6 +809,7 @@
     "name": "17.0.4.80",
     "tag": "17.0.4.80",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.80",
+    "description": "Ao gerar nota fiscal de \"Amostra\", aplicar a tributação configurada na \"Regra de Impostos\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -759,6 +822,7 @@
     "name": "17.0.4.81",
     "tag": "17.0.4.81",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.4.81",
+    "description": "Controle Fiscal\r\n- Add campo cBenef ao editar a nota.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -771,6 +835,7 @@
     "name": "17.0.5.0",
     "tag": "17.0.5.0",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.0",
+    "description": "Integração com RAMPrint para DAV,  NFCe, A4 e Boleto\r\nAdicionado parâmetro geral com local onde será salvo o arquivo PDF.\r\nRAM_RAMPRINT_SALVAR_PDF\r\nTambém foi adicionado no cadastro do usuário.\r\nConfiguração de Documento, nomes de arquivos:\r\nDAV\r\nNFCe\r\nA4\r\nBoleto",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -783,6 +848,7 @@
     "name": "17.0.5.1",
     "tag": "17.0.5.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.1",
+    "description": "Ajustes, DAV\r\n- Frete\r\n- Nome Razão Social do cliente.\r\n\r\nRelatório - 90\r\n- Ordenar por LOCAL em seguida por PRODUTO. ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -795,6 +861,7 @@
     "name": "17.0.5.2",
     "tag": "17.0.5.2",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.2",
+    "description": "Consulta Financeira\r\n- Consultar apenas na empresa com permissão.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -807,6 +874,7 @@
     "name": "17.0.5.3",
     "tag": "17.0.5.3",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.3",
+    "description": "Adicionar trava de edição no combobox vendedor (PDV)\r\nRAM_PDV_BLOQUEAR_CAMPO_VENDEDOR\r\n\r\nParâmetro para não Tributar \"Amostra\"\r\nRAM_COM_NAO_TRIBUTAR_AMOSTRA",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -819,6 +887,7 @@
     "name": "17.0.5.4",
     "tag": "17.0.5.4",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.4",
+    "description": "Melhoria na verificação do saldo do produto.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -831,6 +900,7 @@
     "name": "17.0.5.5",
     "tag": "17.0.5.5",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.5",
+    "description": "Opção no Cadastro da Empresa / Impostos\r\n- Somar Frete na Base de Cálculo do PIS/COFINS.\r\n\r\nConsulta Financeira\r\n- Ajuste do filtro com Dias de Atraso, tem que usar \"Pago\" por que o campo é na tabela da baixa.\r\n\r\nNFCe - Envio dos campos da tag <dest>.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -843,6 +913,7 @@
     "name": "17.0.5.6",
     "tag": "17.0.5.6",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.6",
+    "description": "Controle Fiscal\r\n- Melhoria na validação da Serie da NFe.\r\n- Melhoria para emitir NFCe com dados completo do cliente.\r\n\r\nOrçamentos/Pedidos\r\n- Ajuste na aba \"Imprimir/Etiquetas\" para considerar  coluna \"Qtd. Etiquetas\".\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -855,6 +926,7 @@
     "name": "17.0.5.7",
     "tag": "17.0.5.7",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.7",
+    "description": "Correção BUG ao transmitir NFe \"recibo\".\r\n\r\nAjuste NFCe.\r\n- indIEDest",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -867,6 +939,7 @@
     "name": "17.0.5.8",
     "tag": "17.0.5.8",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.8",
+    "description": "Customizações na tela de \"Tabela de Preço para Transportadora\"\r\n- Botão para apagar linha selecionada da faixa de preço.\r\n- Opção de ajuste no valor (Somar ou Subtrair).\r\n\r\nAjuste na autenticação de conta no \"Mercado Livre\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -879,6 +952,7 @@
     "name": "17.0.5.9",
     "tag": "17.0.5.9",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.9",
+    "description": "DAV\r\n- Número da Comanda + Apelido.\r\nRAM_COM_NUM_COMANDA_APELIDO_DAV\r\n\r\nConsulta Financeira\r\n- Ajuste na coluna código.\r\n\r\nOrçamentos/Pedidos\r\n- Imprimir cupom, utilizar número de vias do cadastro da empresa \"Outras Opções\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -891,6 +965,7 @@
     "name": "17.0.5.10",
     "tag": "17.0.5.10",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.10",
+    "description": "PDV.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -903,6 +978,7 @@
     "name": "17.0.5.11",
     "tag": "17.0.5.11",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.11",
+    "description": "CTe\r\n- Correção campo tpServ = 9",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -915,6 +991,7 @@
     "name": "17.0.5.12",
     "tag": "17.0.5.12",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.12",
+    "description": "Importação de Catalogo/Delivery \r\n- Ajuste na importação do cliente quando a empresa tem mais de um \"Cadastro de Empresa\"\r\n\r\nTransferência Estoque entre Unidades\r\n- Recusar a transferência em qualquer empresa.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -927,6 +1004,7 @@
     "name": "17.0.5.14",
     "tag": "17.0.5.14",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.14",
+    "description": "Correção na rotina que verifica saldo x negativar quando tem 2 estoque e apenas 1 cadastro de produto",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -939,6 +1017,7 @@
     "name": "15.0.5.15",
     "tag": "17.0.5.15",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.15",
+    "description": "Ajustes / Melhorias\r\nImplementado campos para Nota Fiscal de Crédito e Débito:\r\nCampos: Cadastro Status de Pedidos e Controle Fiscal\r\n\r\nCadastro Geral:\r\n- Opções para isentar PIS/COFINS.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -951,6 +1030,7 @@
     "name": "17.0.5.16",
     "tag": "17.0.5.16",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.16",
+    "description": "CTe\r\n- Transmitir CTe com tag Normal mas sem XML Relacionados. Necessário informar dados de \"Outro Documento\" aba de xml relacionados.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -963,6 +1043,7 @@
     "name": "17.0.5.17",
     "tag": "17.0.5.17",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.17",
+    "description": "NFe - enviar CEST do produto mesmo quando não tem ST calculada.\r\nParâmetro: RAM_NFE_CEST_SEM_ST",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -975,6 +1056,7 @@
     "name": "17.0.5.18",
     "tag": "17.0.5.18",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/17.0.5.18",
+    "description": "Ajustes na importação carga Excel - RAM\r\n> Verificar CODEMP quando tabela for produtos.\r\n\r\nTrava Lote duplicado nas telas:\r\n> Ajuste de Lote.\r\n> Orçamentos/pedidos.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -987,6 +1069,7 @@
     "name": "18.0.0.0",
     "tag": "18.0.0.0",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.0",
+    "description": "Orçamentos / Pedidos\r\n- Etiqueta frete envio se tiver end entrega preenchido usar ele.\r\n\r\nImportação Pedido Delivery\r\n- Não criar cadastro repetido ao importar pedido.\r\n\r\nNota Fiscal - Fechamento\r\n- Ajuste campo Série - NF_SERIE puxar correto do cadastro da empresa.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -999,6 +1082,7 @@
     "name": "18.0.0.1",
     "tag": "18.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.1",
+    "description": "Exportação Produtos Balança Prix\r\n- Ajustar código de barras para 6 dígitos\r\n\r\nOrçamentos/Pedidos\r\n- Parâmetro RAM_COM_TRANSFERENCIA_GRUPO_CUSTO, deixa fixo preço de custo do item em transferência entre empresas do mesmo grupo (validando pelo Cad. Empresa - Cód. Cadastro), usuário pode alterar mas ao gravar sistema vai atualizar novamente.\r\n- Melhoria na trava de produto com quantidade fora do múltiplo permitido.\r\n\r\nExpedição / Pesagem\r\n- Utilizar a quantidade de volume(s), na tela de orçamentos/pedidos para gerar a NFe já com o volume correto da pesagem.\r\n\r\nDANFE - NFCe\r\n- Ajuste erro \"caminho do arquivo de impressão do danfe não assinalado\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1011,6 +1095,7 @@
     "name": "18.0.0.2",
     "tag": "18.0.0.2",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.2",
+    "description": "DAV - Cupom Não Fiscal\r\n- Habilitado o uso das margens e largura do arquivo \"ConfigMargens.ini\".",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1023,6 +1108,7 @@
     "name": "18.0.0.3",
     "tag": "18.0.0.3",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.3",
+    "description": "DAV - Cupom não fiscal\r\n- Ajuste para definir Modo de impressão - \"Padrão\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1035,6 +1121,7 @@
     "name": "18.0.0.4",
     "tag": "18.0.0.4",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.4",
+    "description": "Importação Pedidos RAM Catalogo\r\n- Duplicidade no cadastro geral,  não está validando se já existe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1047,6 +1134,7 @@
     "name": "18.0.0.5",
     "tag": "18.0.0.5",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.5",
+    "description": "Ajuste QTD_VOLUME no Romaneio.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1059,6 +1147,7 @@
     "name": "18.0.0.6",
     "tag": "18.0.0.6",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.6",
+    "description": "Salvar XML de Cancelamento na pasta de \"Eventos\" e também realizar a extração do mesmo. \r\n\r\nNova etiqueta - 33mm por 38mm 3 colunas",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1071,6 +1160,7 @@
     "name": "18.0.0.7",
     "tag": "18.0.0.7",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.7",
+    "description": "Exportação Balança Prix\r\n- Formatação do campo código da balança via parâmetro RAM_PRODUTOS_DIGITO_BAL, quando valor é 0 padrão fica como 4 digitos.\r\n\r\nConsulta de Produtos\r\n- Add coluna NCM - Parâmetro RAM_PRODUTOS_CONSU_ADD_NCM",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1083,6 +1173,7 @@
     "name": "18.0.0.8",
     "tag": "18.0.0.8",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.8",
+    "description": "Ajuste tamanho - Etiqueta - 3 Col. 33mm x 38mm",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1095,6 +1186,7 @@
     "name": "18.0.0.9",
     "tag": "18.0.0.9",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.9",
+    "description": "Ajuste tamanho - Etiqueta - 3 Col. 33mm x 38mm.\r\nCódigo de Barras.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1107,6 +1199,7 @@
     "name": "18.0.0.10",
     "tag": "18.0.0.10",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.10",
+    "description": "Orçamentos/Pedido\r\n- Melhoria na Trava de Lote Repetido - liberar botão gravar\r\n\r\nCadastro Geral\r\n- Travar campos (Nome Fantasia e Relacionamento) quando o cadastro é um vendedor e existe pedido vinculado.\r\n\r\nNota Fiscal\r\n- Ajustes de valor fatura quando tem desoneração do ICMS\r\n- Ajuste arredondamento da Base do CBS/IBS\r\n\r\nCad. Produtos\r\n- Correção editar configuração \"Produto x Fornecedor\" na empresa de codemp <> 1.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1119,6 +1212,7 @@
     "name": "18.0.0.11",
     "tag": "18.0.0.11",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.11",
+    "description": "Etiqueta 33 x 28mm 3 Colunas\r\n- Ajuste descrição do produto em 4 linhas.\r\n\r\nPDV x Fechamento de Caixa\r\n- Correção quando existe troco no pagamento.\r\n- Gerar parcela de troco.\r\n\r\nImportação Carga - Excel\r\n- Foi removido o código que trata tabela PRODUTOS e os campos de ST/CFOP/CLASS",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1131,6 +1225,7 @@
     "name": "18.0.0.12",
     "tag": "18.0.0.12",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.12",
+    "description": "Orçamentos/Pedidos\r\n- Ajuste para considerar Frete na Devolução via XML.\r\n\r\nRelatórios - Pedidos Liberados\r\n- Adicionada coluna \"Horário\".\r\n- Clique na coluna/título para aplicar ordenação.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1143,6 +1238,7 @@
     "name": "18.0.0.14",
     "tag": "18.0.0.14",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.14",
+    "description": "Ajuste etiqueta 33x38mm - 4 linhas na descrição.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1155,6 +1251,7 @@
     "name": "18.0.0.15",
     "tag": "18.0.0.15",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.15",
+    "description": "* Ajuste etiqueta 33x38mm - 4 linhas na descrição. *",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1167,6 +1264,7 @@
     "name": "18.0.0.16",
     "tag": "18.0.0.16",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.16",
+    "description": "PDV\r\n- Erro \"sql\" quando tem troco na venda.\r\n\r\nCargas - Relat. Resumo MDFe\r\n- Ajuste para mostrar endereço do remetente quando não tem redespacho",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1179,6 +1277,7 @@
     "name": "18.0.0.17",
     "tag": "18.0.0.17",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.17",
+    "description": "PDV - Controle de Caixa\r\n- Troco.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1191,6 +1290,7 @@
     "name": "18.0.0.18",
     "tag": "18.0.0.18",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.18",
+    "description": "Tela - Ajuste de Lote\r\n- Correção para baixar do combo/kit.\r\n\r\nBoleto Web Service\r\n- Log para cada envio, para utilizar e identificar o erro de parcela não registrada.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1203,6 +1303,7 @@
     "name": "18.0.0.19",
     "tag": "18.0.0.19",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.19",
+    "description": "Relat. Financeiro Agrupado por Data\r\n- Ordenação por vencimento seguido da descrição.\r\n\r\nBoleto\r\n- Ajuste para enviar na remessa opção para negativação automática do titulo.\r\n  \r\nFaturamento NFSe - RAM\r\n- Quando preenchido no financeiro o campo \"Descrição completa\", a descrição do produto na nota fiscal será substituída por esse conteúdo.\r\n\r\nCompras\r\n- Adicionado opção para laudo do produto do fornecedor\r\n- Ajuste campo OBS, linhas em branco\r\n\r\nCTe\r\n- Custo adicionado, puxar apenas do destinatário\r\n\r\nImportação de Produtos XML\r\n- Add coluna NCM",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1215,6 +1316,7 @@
     "name": "18.0.0.20",
     "tag": "18.0.0.20",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.20",
+    "description": "Devolução Parcial via XML\r\n- PIS/COFINS\r\n\r\nAjuste no faturamento - RAM\r\n- Erro sql.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1227,6 +1329,7 @@
     "name": "18.0.0.21",
     "tag": "18.0.0.21",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.21",
+    "description": "Faturamento - Sistema RAM\r\n- Ajuste para utilizar campo \"Descrição completa\" do Financeiro como descrição do serviço.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1239,6 +1342,7 @@
     "name": "18.0.0.22",
     "tag": "18.0.0.22",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.22",
+    "description": "Ajustes RUB RAM:\r\n- Parâmetro: RAM_RUB_RAM_RAMOATIV - definir o ramo de atividade padrão na importação do rub ram, preenche com texto, igual nome do ramo de atividade existente\r\n- ajustes importação do pedido:\r\n* taxa\r\n* vendedor\r\n* ramo de atividade\r\n* telefone\r\n* custo do produto tabela itespad",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1251,6 +1355,7 @@
     "name": "18.0.0.23",
     "tag": "18.0.0.23",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.23",
+    "description": "Financeiro - Registrar boleto WebService\r\n- Add mensagem de erro e aviso para reprocessar, quando não registrado no banco.\r\n\r\nCadastro Geral\r\n- Permitir CNPJ alfanumérico. \r\n\r\nHub RAM\r\n- Tratar nome com \"*\" para não importar o pedido. ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1263,6 +1368,7 @@
     "name": "18.0.0.24",
     "tag": "18.0.0.24",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.24",
+    "description": "Receber Pedidos App\r\n- Ajuste para gravar a DATA_ENTREGA_PREV no campo correto.\r\n\r\nCTe\r\n- Puxar \"Custo Add\" do destinatário.\r\n\r\nImportação de Pedidos App\r\n- Filtrar codemp\r\n- Correção nome do cliente",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1275,6 +1381,7 @@
     "name": "18.0.0.25",
     "tag": "18.0.0.25",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.25",
+    "description": "MDFe\r\n- Permite gerar e aceitar e apólices separadas por /\r\n- Ao gerar o XML, sistema utiliza a mesma averbação para das as apólices",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1287,6 +1394,7 @@
     "name": "18.0.0.26",
     "tag": "18.0.0.26",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.26",
+    "description": "Faturamento - RAXM\r\n- Ajuste filtro \"Não\" x \"N�o\"\r\n\r\nRAM Catálogo\r\n- Importar DATA_ENTREGA_PREV e HORA_SAIDA na importação.\r\n- Nome do cliente não aparecendo.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1299,6 +1407,7 @@
     "name": "18.0.0.27",
     "tag": "18.0.0.27",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.27",
+    "description": "Importar pedidos e delivery\r\n- Automaticamente (com barulho)\r\n- Ajustar o arquivoLogin.ini\r\nAdicionar as linhas abaixo:\r\n[IMPORTACAO]\r\nAUTOMATICA=1\r\nINTERVALO_MIN=1\r\n\r\n- Ajustar o arquivo ImpressoraSystem.txt\r\nCUPOM_NAO_FISCAL\r\n\r\nBotão Inutilizar em massa\r\n- Correção não estava carregando as configurações do certificado.\r\n\r\nEtiqueta Transportadora\r\n- Usar nome razão social do cliente.\r\n\r\nImportar Pedidos Hub RAM\r\n- Adicionado \"Seletor\"\r\n\r\nCte\r\n- Custo add puxar do destinatário e remetente.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1311,6 +1420,7 @@
     "name": "18.0.0.28",
     "tag": "18.0.0.28",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.28",
+    "description": "Importação Pedidos App Vendas\r\n- Se DATAENTREGA for NULL utilizar o valor do campo DATA_ENTREGA_PREV.\r\n\r\nPedido Matricial\r\n- Campo \"Nota Fiscal\" mostrar o número NFe.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1323,6 +1433,7 @@
     "name": "18.0.0.29",
     "tag": "18.0.0.29",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.29",
+    "description": "Importação de Pedidos App\r\n- Ajuste da data de entrega na tela.\r\n\r\nImportação Nuvemshop\r\n- Add seletor de pedidos.\r\n\r\nEtiqueta\r\n- Nova etiqueta 1 Col 80x30mm",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1335,6 +1446,7 @@
     "name": "18.0.0.30",
     "tag": "18.0.0.30",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.30",
+    "description": "Financeiro - Relatório Extrato\r\n- Ordenação por NF.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1347,6 +1459,7 @@
     "name": "18.0.0.31",
     "tag": "18.0.0.31",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.31",
+    "description": "Importação de Pedidos Hub - RAM\r\n- Ajuste no vinculo do produto x cadastro do sistema",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1359,6 +1472,7 @@
     "name": "18.0.0.32",
     "tag": "18.0.0.32",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.32",
+    "description": "Erro ao Gerar Boleto\r\n- sort record size of N bytes is too big.\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1371,6 +1485,7 @@
     "name": "18.0.0.33",
     "tag": "18.0.0.33",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.33",
+    "description": "Tela de Pedidos x Status\r\n- Correção ao gerar financeiro do pedido com troco",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1383,6 +1498,7 @@
     "name": "18.0.0.34",
     "tag": "18.0.0.34",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.34",
+    "description": "Financeiro / Relatórios / Boleto\r\n- Correção ao gerar arquivo de remessa do boleto com protesto.\r\n- Correção erro de SQL nos relatórios \"sort record size of N bytes is too big\"",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1395,6 +1511,7 @@
     "name": "18.0.0.35",
     "tag": "18.0.0.35",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.35",
+    "description": "Etiqueta\r\n- Etiqueta - 2 Col. 4,00 X 2,50 cm\r\n\r\nCadastro de Produtos\r\n- Correção erro de divisão: Combo / Kit, o saldo está 155.240.464,00.\r\n\r\nFinanceiro\r\n- Boleto API Itaú, ajuste limpeza dos campos para reprocessar parcela.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1407,6 +1524,7 @@
     "name": "18.0.0.36",
     "tag": "18.0.0.36",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.36",
+    "description": "Ajuste etiqueta 4,00 x 2,50 - 2 Col.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1419,6 +1537,7 @@
     "name": "18.0.0.37",
     "tag": "18.0.0.37",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.37",
+    "description": "Ajuste Etiqueta 2 Col. 4,00 x 2,50 cm\r\n- Remover descrição\r\n- Aumentar  e centralizar preço\r\n- bcCode128",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1431,6 +1550,7 @@
     "name": "18.0.0.39",
     "tag": "18.0.0.39",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.39",
+    "description": "Correção - Boleto Erro tipoplan.dem",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1443,6 +1563,7 @@
     "name": "18.0.0.40",
     "tag": "18.0.0.40",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.0.40",
+    "description": "Cadastro Geral\r\n- Ao travar edição do nome fantasia por conta de um cadastro de vendedor, não realizar a pesquisa do CNPJ - Sefaz.\r\n\r\nNota Fiscal\r\n- Ajuste ao gerar o grupo de parcelas, subtrair o valor do ICMS Desonerado.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1455,6 +1576,7 @@
     "name": "18.0.1.0",
     "tag": "18.0.1.0",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.0",
+    "description": "Envio CNPJ nosso Sistema RAM no XML para ser utilizado no sistema DFe RAM.\r\nTag  - Autxml\r\n59.653.970/0001-39\r\n         ",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1467,6 +1589,7 @@
     "name": "18.0.1.1",
     "tag": "18.0.1.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.1",
+    "description": "Nova Etiqueta tela Pesagem",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1479,6 +1602,7 @@
     "name": "18.0.1.2",
     "tag": "18.0.1.2",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.2",
+    "description": "Ajustes Etiqueta Expedição / Pesagem.\r\nRAM Print",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1491,6 +1615,7 @@
     "name": "18.0.1.3",
     "tag": "18.0.1.3",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.3",
+    "description": "Envio da Etiqueta correta da pesagem para o RAMPrint.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1503,6 +1628,7 @@
     "name": "18.0.1.4",
     "tag": "18.0.1.4",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.4",
+    "description": "Ajuste Etiqueta Expedição\r\n- Código do Produto maior que o esperado para formatar o LOTE.\r\n- Ajuste mostrar campo SIF.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1515,6 +1641,7 @@
     "name": "18.0.1.5",
     "tag": "18.0.1.5",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.5",
+    "description": "Tela de Faturamento em Lote\r\n- Adicionado recurso do RAMPrint.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1527,6 +1654,7 @@
     "name": "18.0.1.6",
     "tag": "18.0.1.6",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.6",
+    "description": "Ajustes na Etiqueta da Pesagem.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1539,6 +1667,7 @@
     "name": "18.0.1.7",
     "tag": "18.0.1.7",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.7",
+    "description": "Tela x Múltiplas descrições do produto x NFe.\r\n\r\nOrçamentos/Pedidos\r\nCorreção do campo \"condição\" quando alterado o cliente do pedido. \r\n\r\nTela Regras de Impostos\r\nAdicionado UF = EX.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1551,6 +1680,7 @@
     "name": "18.0.1.8",
     "tag": "18.0.1.8",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.8",
+    "description": "Boleto X RAMPrint \r\n- Mensagem deseja visualizar o \"boleto na tela\".\r\n\r\nEtiqueta Expedição - U.C. \r\n- Reduzir tamanho 1cm.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1563,6 +1693,7 @@
     "name": "18.0.1.9",
     "tag": "18.0.1.9",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.9",
+    "description": "Homologação Boleto Vortx\r\nCNAB 400\r\nCNAB 444",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1575,6 +1706,7 @@
     "name": "18.0.1.10",
     "tag": "18.0.1.10",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.10",
+    "description": "Migração Servidor WhatsApp - uazapi\r\n\r\nTela de Transferência de Estoque entre Empresas\r\n- Conferência as escuraras - sem mostrar a quantidade.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1587,6 +1719,7 @@
     "name": "18.0.1.11",
     "tag": "18.0.1.11",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.11",
+    "description": "Fechamento - CTe\r\n- Opção do relatório por tomador sem realizar o fechamento das notas.\r\n\r\nTela de Cobrança\r\n- Opção para disparara as cobranças via WhatsApp.\r\n\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1599,6 +1732,7 @@
     "name": "18.0.1.12",
     "tag": "18.0.1.12",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.12",
+    "description": "Entrada de XML - Compra\r\n- Ajuste casas decimais do Valor Unitário x Total\r\n\r\nTela de Pesagem\r\n- Opção de reimprimir a etiqueta. \r\n\r\nOrçamentos/Pedidos\r\n- Ajuste para selecionar LOTE e gravar na linha correta do Pedido.\r\n\r\nSolicitação de Compra\r\n- Opção de compartilhar com todas as empresas.\r\n\r\nInutilização NFe\r\n- Erro de SQL - Ajustado.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1611,6 +1745,7 @@
     "name": "18.0.1.13",
     "tag": "18.0.1.13",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.13",
+    "description": "Boleto - Vortx\r\n- Ajuste número do documento na remessa 400 não formatar com zeros a esquerda.\r\n\r\nTela de Pesagem\r\n- Gerar etiquetas pelo número de bombonas.\r\n- Ajuste Label SIF - F.\r\n\r\nFinanceiro\r\n- Melhoria na rotina de replicar parcelas.",
     "anexos": [
       {
         "name": "RAMSolution.exe",
@@ -1623,6 +1758,7 @@
     "name": "18.0.1.14",
     "tag": "18.0.1.14",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.14",
+    "description": "Boleto\r\n- Ajuste texto no corpo do boleto sobre valor do Juros.\r\n\r\nOrçamentos/Pedidos\r\n- Não alterar o status do pedido de compra.",
     "anexos": [
       {
         "name": "RAMSolution.exe",

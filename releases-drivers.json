@@ -3,6 +3,7 @@
     "name": "Drivers",
     "tag": "drivers.1.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/drivers.1.0.1",
+    "description": "",
     "anexos": [
       {
         "name": "driver-bematech-mp-4200.zip",

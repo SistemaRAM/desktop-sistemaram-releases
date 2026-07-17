@@ -3,6 +3,7 @@
     "name": "comandas.0.0.1",
     "tag": "comandas.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.0.0.1",
+    "description": "- Corrige horário das comandas",
     "anexos": [
       {
         "name": "Server_040226.exe",
@@ -15,6 +16,7 @@
     "name": "comandas.1.0.0.0",
     "tag": "comandas.1.0.0.0",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.1.0.0.0",
+    "description": "Server para receber os pedidos enviado pelo App Comandas.",
     "anexos": [
       {
         "name": "Server.exe",
@@ -27,6 +29,7 @@
     "name": "comandas.1.0.0.1",
     "tag": "comandas.1.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/comandas.1.0.0.1",
+    "description": "Ajuste na impressão da comanda, quando fracionado imprimir os dois últimos dígitos do ID para não ficar um número enorme. ",
     "anexos": [
       {
         "name": "Server.exe",

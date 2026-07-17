@@ -3,6 +3,7 @@
     "name": "Add-ons",
     "tag": "addons.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/addons.0.0.1",
+    "description": "## **Release de Add-ons**\r\n\r\nEsta release traz os addons utilizados pelo **SistemaRAM**.\r\n\r\n### Add-ons\r\n- ImpressoraSystem.exe\r\n- DLL.zip\r\n- Schemas.zip\r\n- LayoutsFast.zip\r\n- RAMCredito.exe\r\n\r\n---\r\n\r\n> Caso encontre qualquer problema, utilize a aba **Issues** para reportar.\r",
     "anexos": [
       {
         "name": "DLL.zip",
