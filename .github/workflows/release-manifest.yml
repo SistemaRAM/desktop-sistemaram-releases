@@ -78,7 +78,7 @@ jobs:
           RELEASE_JSON=""
 
           for i in $(seq 1 "$ATTEMPTS"); do
-            if RELEASE_JSON=$(gh release view "$TAG" --json name,url,assets 2>/dev/null); then
+            if RELEASE_JSON=$(gh release view "$TAG" --json name,url,assets,body 2>/dev/null); then
               break
             fi
             RELEASE_JSON=""
@@ -90,17 +90,22 @@ jobs:
             echo "No release found for $TAG after $ATTEMPTS attempts. Falling back to defaults."
             NAME="$TAG"
             LINK="https://github.com/$GH_REPO/releases/tag/$TAG"
+            DESCRIPTION=""
             echo '[]' > anexos.json
           else
             NAME=$(echo "$RELEASE_JSON" | jq -r '.name // empty')
             [ -z "$NAME" ] && NAME="$TAG"
             LINK=$(echo "$RELEASE_JSON" | jq -r '.url')
+            DESCRIPTION=$(echo "$RELEASE_JSON" | jq -r '.body // empty')
             echo "$RELEASE_JSON" | jq '[.assets[] | {name: .name, url: .url, size: .size}]' > anexos.json
           fi
 
           {
             echo "name=$NAME"
             echo "link=$LINK"
+            echo "description<<EOF_DESC"
+            echo "$DESCRIPTION"
+            echo "EOF_DESC"
           } >> "$GITHUB_OUTPUT"
 
       - name: Update manifest
@@ -109,6 +114,7 @@ jobs:
           FILE: ${{ steps.resolve.outputs.file }}
           NAME: ${{ steps.release.outputs.name }}
           LINK: ${{ steps.release.outputs.link }}
+          DESCRIPTION: ${{ steps.release.outputs.description }}
         run: |
           set -euo pipefail
           [ -f "$FILE" ] || echo '{}' > "$FILE"
@@ -117,8 +123,9 @@ jobs:
             --arg name "$NAME" \
             --arg tag "$TAG" \
             --arg link "$LINK" \
+            --arg description "$DESCRIPTION" \
             --slurpfile anexos anexos.json \
-            '{name: $name, tag: $tag, link: $link, anexos: $anexos[0]}' > entry.json
+            '{name: $name, tag: $tag, link: $link, description: $description, anexos: $anexos[0]}' > entry.json
 
           jq --arg tag "$TAG" --slurpfile entry entry.json \
             '.[$tag] = $entry[0]' "$FILE" > "$FILE.tmp"
