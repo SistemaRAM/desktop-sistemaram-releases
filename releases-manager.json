@@ -76,5 +76,18 @@
         "size": 3463680
       }
     ]
+  },
+  "manager.1.0.7.0": {
+    "name": "RAManager | V1.0.7.0",
+    "tag": "manager.1.0.7.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/manager.1.0.7.0",
+    "description": "",
+    "anexos": [
+      {
+        "name": "RAManager.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/manager.1.0.7.0/RAManager.exe",
+        "size": 3466752
+      }
+    ]
   }
 }
