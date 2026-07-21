@@ -1824,6 +1824,12 @@
     "tag": "18.0.1.20",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.20",
     "description": "Boleto\r\n- Ajuste CNAB 240 - Caixa 104, cedente com 6 dígitos formatar com espaço em branco a esquerda.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.20/RAMSolution.exe",
+        "size": 42263552
+      }
+    ]
   }
 }
