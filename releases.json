@@ -1810,7 +1810,7 @@
     "name": "18.0.1.19",
     "tag": "18.0.1.19",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.19",
-    "description": "Tela para Importação do XML de Venda - Saída.",
+    "description": "Orçamentos/Pedidos\r\n- Tela para Importação do XML de Venda - Saída.\r\n\r\nTela Expedição do Pedido x Pesagem\r\n- Possibilitar o compartilhamento dos produtos pesados da empresa 1 e bipar na empresa 2,3,4...",
     "anexos": [
       {
         "name": "RAMSolution.exe",
