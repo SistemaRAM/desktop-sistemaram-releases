@@ -1811,6 +1811,12 @@
     "tag": "18.0.1.19",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.19",
     "description": "Tela para Importação do XML de Venda - Saída.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.19/RAMSolution.exe",
+        "size": 42262528
+      }
+    ]
   }
 }
