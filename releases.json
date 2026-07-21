@@ -1797,7 +1797,13 @@
     "name": "18.0.1.18",
     "tag": "18.0.1.18",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.18",
-    "description": "Cadastro de CFOP\r\n- CBenef.",
-    "anexos": []
+    "description": "Cadastro de CFOP\r\n- CBenef.\r\n\r\nTela Pedidos X Status\r\n- Correção bug CUSTO_ADD.\r\n- Add RAMPrint para pedidos.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.18/RAMSolution.exe",
+        "size": 42241024
+      }
+    ]
   }
 }
