@@ -1779,5 +1779,18 @@
         "size": 42258944
       }
     ]
+  },
+  "18.0.1.17": {
+    "name": "18.0.1.17",
+    "tag": "18.0.1.17",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.17",
+    "description": "Cadastro de Produtos\r\n- Novo campo para \"Descrição do Produto para Etiqueta de Pesagem\".\r\n\r\nOrçamentos/Pedidos\r\n- Pedido 2 Vias - RAMPrint.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.17/RAMSolution.exe",
+        "size": 42240512
+      }
+    ]
   }
 }
