@@ -1818,5 +1818,12 @@
         "size": 42245120
       }
     ]
+  },
+  "18.0.1.20": {
+    "name": "18.0.1.20",
+    "tag": "18.0.1.20",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.20",
+    "description": "Boleto\r\n- Ajuste CNAB 240 - Caixa 104, cedente com 6 dígitos formatar com espaço em branco a esquerda.",
+    "anexos": []
   }
 }
