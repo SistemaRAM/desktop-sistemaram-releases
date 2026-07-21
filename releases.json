@@ -1771,13 +1771,7 @@
     "name": "18.0.1.16",
     "tag": "18.0.1.16",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.16",
-    "description": "Orçamentos/Pedidos\r\n- Melhoria na liberação do pedido com senha master, opção de mover pedido para um status.\r\n- Ajuste para utilizar o peso bruto e liquido da tela e não calcular pela configuração do produto.\r\n- Pedido 2 Vias, ajuste campo \"condição\".\r\n\r\nPDV\r\n- Integração PIX com Quero Quero Pag.",
-    "anexos": [
-      {
-        "name": "RAMSolution.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.16/RAMSolution.exe",
-        "size": 42258944
-      }
-    ]
+    "description": "Orçamentos/Pedidos\r\n- Melhoria na liberação do pedido com senha master, opção de mover pedido para um status.\r\n- Ajuste para utilizar o peso bruto e liquido da tela e não calcular pela configuração do produto.\r\n- Pedido 2 Vias, ajuste campo \"condição\".\r\n\r\nPDV\r\n- Integração PIX com Quero Quero Pag.\r\n\r\nBoleto - VORTX\r\n- Ajuste do DV Geral.",
+    "anexos": []
   }
 }
