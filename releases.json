@@ -1805,5 +1805,12 @@
         "size": 42241024
       }
     ]
+  },
+  "18.0.1.19": {
+    "name": "18.0.1.19",
+    "tag": "18.0.1.19",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.19",
+    "description": "Tela para Importação do XML de Venda - Saída.",
+    "anexos": []
   }
 }
