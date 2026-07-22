@@ -1831,5 +1831,12 @@
         "size": 42263552
       }
     ]
+  },
+  "18.0.1.21": {
+    "name": "18.0.1.21",
+    "tag": "18.0.1.21",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.21",
+    "description": "Orçamentos e Pedidos\r\n- Ajuste código do cliente pedido 2 vias.\r\n\r\nFinanceiro\r\n- Baixa pela tela de consulta com juros.",
+    "anexos": []
   }
 }
