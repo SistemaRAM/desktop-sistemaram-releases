@@ -1849,7 +1849,7 @@
     "name": "18.0.1.22",
     "tag": "18.0.1.22",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.22",
-    "description": "Tela de Desossa\r\n- Duplo clique no campo código do produto para abrir a busca.\r\n- Parâmetro que atualiza preço de venda do produto quando a desossa é finalizada.",
+    "description": "Tela de Desossa\r\n- Duplo clique no campo código do produto para abrir a busca.\r\n- Parâmetro que atualiza preço de venda do produto quando a desossa é finalizada.\r\n\r\nOrçamentos/Pedidos\r\n- Ajuste bug ao gravar uma compra \"Erro ao atualizar baixar valor do pedido de compra!\".",
     "anexos": []
   }
 }
