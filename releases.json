@@ -1836,7 +1836,13 @@
     "name": "18.0.1.21",
     "tag": "18.0.1.21",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.21",
-    "description": "Orçamentos e Pedidos\r\n- Ajuste código do cliente pedido 2 vias.\r\n\r\nFinanceiro\r\n- Baixa pela tela de consulta com juros.\r\n\r\nRemessa Caixa - 104\r\n- Opção de layout do arquivo - 60 - Usar Versão DF, aba Webservice.",
-    "anexos": []
+    "description": "Orçamentos e Pedidos\r\n- Ajuste código do cliente pedido 2 vias.\r\n\r\nFinanceiro\r\n- Baixa pela tela de consulta com juros.\r\n\r\nRemessa Caixa - 104\r\n- Opção de layout do arquivo - 60 - Usar Versão DF, aba Webservice.\r\n\r\nTela de Pesagem\r\n- Ajuste código de barras vertical.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.21/RAMSolution.exe",
+        "size": 42263552
+      }
+    ]
   }
 }
