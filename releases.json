@@ -1857,5 +1857,18 @@
         "size": 42263040
       }
     ]
+  },
+  "18.0.1.23": {
+    "name": "18.0.1.23",
+    "tag": "18.0.1.23",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.1.23",
+    "description": "Orçamentos/Pedidos\r\n- Bug, importação do XML de compra, erro causado pelo campo do pedido de compra contendo caracteres que quebra a consulta.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.1.23/RAMSolution.exe",
+        "size": 42261504
+      }
+    ]
   }
 }
