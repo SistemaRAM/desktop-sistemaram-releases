@@ -1876,6 +1876,12 @@
     "tag": "18.0.2.0",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.0",
     "description": "Configurações de E-mail\r\n* A configuração de e-mail pela **Nuvem RAM** passou a ser o padrão e é utilizada automaticamente. Não é mais necessário configurar ou criar uma API, seja no **SparkPost** ou no **Resend**.\r\n* Além da configuração automática, agora há um **log de envios** disponível no **Solop**, permitindo o acompanhamento dos e-mails enviados.\r\n* Foi adicionada a opção de criar uma configuração de e-mail na nuvem para um **cliente específico**.\r\n* Após a atualização do sistema, a configuração local de e-mail será removida automaticamente, passando a ser utilizada exclusivamente a configuração da **Nuvem RAM**.\r",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.0/RAMSolution.exe",
+        "size": 42271232
+      }
+    ]
   }
 }
