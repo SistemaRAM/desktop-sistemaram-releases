@@ -1883,5 +1883,18 @@
         "size": 42275328
       }
     ]
+  },
+  "18.0.2.1": {
+    "name": "18.0.2.1",
+    "tag": "18.0.2.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.1",
+    "description": "Etiqueta de Pesagem",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.1/RAMSolution.exe",
+        "size": 42263040
+      }
+    ]
   }
 }
