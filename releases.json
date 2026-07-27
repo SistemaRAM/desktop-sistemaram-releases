@@ -1902,6 +1902,12 @@
     "tag": "18.0.2.2",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.2",
     "description": "Orçamentos/Pedidos\r\n- Ajuste na rotina para recalcular o saldo fiscal quando o parâmetro do filtro é \"x\".",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.2/RAMSolution.exe",
+        "size": 42262016
+      }
+    ]
   }
 }
