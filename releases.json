@@ -1915,6 +1915,12 @@
     "tag": "18.0.2.3",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.3",
     "description": "Tela de Pesagem\r\n- Ajuste bug causado por config. de outro cliente no peso sendo dividido pela qtd. peças.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.3/RAMSolution.exe",
+        "size": 42263552
+      }
+    ]
   }
 }
