@@ -1896,5 +1896,12 @@
         "size": 42263040
       }
     ]
+  },
+  "18.0.2.2": {
+    "name": "18.0.2.2",
+    "tag": "18.0.2.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.2",
+    "description": "Orçamentos/Pedidos\r\n- Ajuste na rotina para recalcular o saldo fiscal quando o parâmetro do filtro é \"x\".",
+    "anexos": []
   }
 }
