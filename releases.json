@@ -1922,5 +1922,18 @@
         "size": 42263552
       }
     ]
+  },
+  "18.0.2.4": {
+    "name": "18.0.2.4",
+    "tag": "18.0.2.4",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.4",
+    "description": "Tela de Pesagem\r\n- Ajuste Peso x Tara.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.4/RAMSolution.exe",
+        "size": 42297856
+      }
+    ]
   }
 }
