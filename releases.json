@@ -1909,5 +1909,12 @@
         "size": 42262016
       }
     ]
+  },
+  "18.0.2.3": {
+    "name": "18.0.2.3",
+    "tag": "18.0.2.3",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.3",
+    "description": "Tela de Pesagem\r\n- Ajuste bug causado por config. de outro cliente no peso sendo dividido pela qtd. peças.",
+    "anexos": []
   }
 }
