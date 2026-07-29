@@ -1935,5 +1935,12 @@
         "size": 42297856
       }
     ]
+  },
+  "18.0.2.5": {
+    "name": "18.0.2.5",
+    "tag": "18.0.2.5",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.5",
+    "description": "Orçamentos/Pedidos\r\n- Pedido 2 Vias ajuste casas decimais - 10 casas.",
+    "anexos": []
   }
 }
