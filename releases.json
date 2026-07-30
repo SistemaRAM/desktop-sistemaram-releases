@@ -1948,5 +1948,18 @@
         "size": 42300416
       }
     ]
+  },
+  "18.0.2.6": {
+    "name": "18.0.2.6",
+    "tag": "18.0.2.6",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.6",
+    "description": "Orçamentos/Pedidos\r\n- Ajuste para aceitar 10 casas decimais.\r\n\r\nTela Desossa\r\n- BUG > Duplicar estoque ao gravar a desossa finalizada mais de uma vez.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.6/RAMSolution.exe",
+        "size": 42294784
+      }
+    ]
   }
 }
