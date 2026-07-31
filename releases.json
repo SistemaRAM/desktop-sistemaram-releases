@@ -1966,7 +1966,7 @@
     "name": "18.0.2.7",
     "tag": "18.0.2.7",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.7",
-    "description": "Tela Relat. Financeiro\r\n- Ajuste do filtro para o Relat. Extrato, quando utilizado Caixa do Pagamento.",
+    "description": "Tela Relat. Financeiro\r\n- Ajuste do filtro para o Relat. Extrato, quando utilizado Caixa do Pagamento.\r\n\r\nCadastro de Empresa\r\n- Campo Informações Complementares, ajustado tamanho de 200 para 600 caracteres.",
     "anexos": []
   }
 }
