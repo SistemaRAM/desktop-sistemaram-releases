@@ -1961,5 +1961,12 @@
         "size": 42294784
       }
     ]
+  },
+  "18.0.2.7": {
+    "name": "18.0.2.7",
+    "tag": "18.0.2.7",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.7",
+    "description": "Tela Relat. Financeiro\r\n- Ajuste do filtro para o Relat. Extrato, quando utilizado Caixa do Pagamento.",
+    "anexos": []
   }
 }
