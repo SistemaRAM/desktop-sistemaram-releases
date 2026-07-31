@@ -1980,6 +1980,12 @@
     "tag": "18.0.2.8",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.8",
     "description": "Orçamentos/Pedidos\r\n- Bug botão histórico\r\n- Pedido 2 Vias, aumentar campo OBS.\r\n\r\nCadastro Geral\r\n- Bug movimentação dos produtos, histórico",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.8/RAMSolution.exe",
+        "size": 42297856
+      }
+    ]
   }
 }
