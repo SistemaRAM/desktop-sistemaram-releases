@@ -1987,5 +1987,18 @@
         "size": 42297856
       }
     ]
+  },
+  "18.0.2.9": {
+    "name": "18.0.2.9",
+    "tag": "18.0.2.9",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.9",
+    "description": "Tela Consulta de Pedidos\r\n- Bug carregar dados.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.9/RAMSolution.exe",
+        "size": 42297344
+      }
+    ]
   }
 }
