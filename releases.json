@@ -2000,5 +2000,12 @@
         "size": 42297344
       }
     ]
+  },
+  "18.0.2.10": {
+    "name": "18.0.2.10",
+    "tag": "18.0.2.10",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.10",
+    "description": "",
+    "anexos": []
   }
 }
