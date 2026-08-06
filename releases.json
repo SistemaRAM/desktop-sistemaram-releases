@@ -2006,6 +2006,12 @@
     "tag": "18.0.2.10",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.10",
     "description": "Módulo Compras x Orçamentos/Pedidos\r\n- Correção na rotina de importação de itens e entrega parcial.\r\n\r\nMenu Principal\r\n- Ocultar opção não utilizadas, Mercado Livre e Nuvemshop\r\n\r\nFinanceiro\r\n- Correção da rotina de baixa pela tela de consulta com juros.\r\n\r\nRelatório Produtos\r\n- Correção botão \"Excel\" para o relatório posição do estoque.\r\n\r\nSolicitação de Compras\r\n- Ocultar \"inputbox\" do sql\r\n\r\nOrçamentos/Pedidos\r\n- Correção trava limite de crédito por tipo de venda.\r\n- Vincular fornecedor/cliente na nova tela de Importação de Produtos com XML - Saída.\r\n- Não sobrepor o valor FRETE quando preenchido.\r\n\r\nHub RAM\r\n- Salvar a disposição e a ordenação das colunas.\r\n- Adicionar filtro por marketplace: Amazon, Nuvemshop e Ideris.\r\n\r\nAjuste de Lote - Ped. Saída\r\n- Bug casas deciamis.\r",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.10/RAMSolution.exe",
+        "size": 42300928
+      }
+    ]
   }
 }
