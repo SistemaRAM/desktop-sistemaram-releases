@@ -2013,5 +2013,18 @@
         "size": 42300928
       }
     ]
+  },
+  "18.0.2.11": {
+    "name": "18.0.2.11",
+    "tag": "18.0.2.11",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.11",
+    "description": "PDV\r\n- Erro campo quantidade e preço com valor incorreto.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.11/RAMSolution.exe",
+        "size": 42302976
+      }
+    ]
   }
 }
