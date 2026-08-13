@@ -2026,5 +2026,18 @@
         "size": 42302976
       }
     ]
+  },
+  "18.0.2.12": {
+    "name": "18.0.2.12",
+    "tag": "18.0.2.12",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.12",
+    "description": "PDV\r\n- Campo para bipar o código de barras no retorno da consignação.\r\n\r\nOrçamentos/Pedidos\r\n- Copiar - Colar, ajustar data de emissão para o dia atual.\r\n\r\nTela de Pesagem\r\n- Add campo SIF no banco de dados.\r\n\r\nE-mail Log\r\n- Melhoria quando tem mais de 1 e-mail\r\n\r\nCad. Produtos\r\n- Lista de redução, resumir/agrupar, não listar várias quando tem mais de 1 UF/CFOP.\r\n\r\nPedido 2 Vias\r\n- Add CEP e CNPJ do Cliente/Destinatário. \r\n\r\nHubRAM\r\n- Vendedor padrão por parâmetro.\r\n- Ramo de Atividade Padrão por parâmetro.\r\n- Status de Pedido padrão, configuração na tela onde habilita a integração.\r\n\r\nFinanceiro\r\n- Correção fechamento de caixa com troco.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.12/RAMSolution.exe",
+        "size": 42289152
+      }
+    ]
   }
 }
