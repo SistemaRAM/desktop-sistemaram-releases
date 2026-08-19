@@ -2044,7 +2044,7 @@
     "name": "18.0.2.15",
     "tag": "18.0.2.15",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.15",
-    "description": "Orçamentos/Pedidos\r\n- Ajuste buscar produto para NFe de Devolução.\r\n\r\nNFE\r\n- Arredondamento CBS, erro de 0,01.\r\n\r\nCompras\r\n- Ajuste total do pedido quando é a moeda é U$.\r\n\r\nHub RAM\r\n- Filtro de pedidos já faturados.\r\n- Vendedor padrão SITE. RAM_HUBRAM_VENDEDOR_NOME_PADRAO\r\n- Ramo de Atividade Padrão.\r\n- Tabela relacionando forma de pagamento do marketplace com o sistema.\r\n\r\n\r",
+    "description": "Orçamentos/Pedidos\r\n- Ajuste buscar produto para NFe de Devolução.\r\n\r\nNFE\r\n- Arredondamento CBS, erro de 0,01.\r\n\r\nCompras\r\n- Ajuste total do pedido quando é a moeda é U$.\r\n\r\nHub RAM\r\n- Filtro de pedidos já faturados.\r\n- Vendedor padrão SITE. RAM_HUBRAM_VENDEDOR_NOME_PADRAO\r\n- Ramo de Atividade Padrão.\r\n- Tabela relacionando forma de pagamento do marketplace com o sistema.\r\n- Ajuste nome do parâmetro: RAM_RUB_RAM_RAMOATIV para RAM_HUB_RAM_RAMOATIV.\r\n- Ajuste para criar o parâmetro RAM_HUBRAM_VENDEDOR_NOME_PADRAO.\r\n\r\n\r",
     "anexos": [
       {
         "name": "RAMSolution.exe",
