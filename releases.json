@@ -2052,5 +2052,18 @@
         "size": 42288640
       }
     ]
+  },
+  "18.0.2.16": {
+    "name": "18.0.2.16",
+    "tag": "18.0.2.16",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.16",
+    "description": "Controle Fiscal\r\n- NFe Envio DANFE/XML - Bug, ao migrar a configuração para nossa API, não estava mais realizando a verificação interna para disparar o envio.\r\n\r\nDevolução Usando XML\r\n- Correção, identificando se é por número de catálogo.\r",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.16/RAMSolution.exe",
+        "size": 42314752
+      }
+    ]
   }
 }
