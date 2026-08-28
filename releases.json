@@ -2083,13 +2083,7 @@
     "name": "18.0.2.18",
     "tag": "18.0.2.18",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.18",
-    "description": "NFe - Simples Nacional com CBS e IBS\r\n- Ajustes necessário para gerar a NFe com os impostos.\r\n\r\nTela Expedição de Pedidos\r\n- Parâmetro para não imprimir a etiqueta de volume.",
-    "anexos": [
-      {
-        "name": "RAMSolution.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.18/RAMSolution.exe",
-        "size": 42341376
-      }
-    ]
+    "description": "NFe - Simples Nacional com CBS e IBS\r\n- Ajustes necessário para gerar a NFe com os impostos.\r\n\r\nTela Expedição de Pedidos\r\n- Parâmetro para não imprimir a etiqueta de volume.\r\n\r\nControle de Caixa - PDV\r\n- Ajuste para considerar TROCO quando forma de pagamento for diferente de \"dinheiro\".",
+    "anexos": []
   }
 }
