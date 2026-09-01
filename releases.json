@@ -2096,13 +2096,7 @@
     "name": "18.0.2.19",
     "tag": "18.0.2.19",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.19",
-    "description": "Orçamentos/Pedidos\r\n- Erro ao imprimir pedido padrão.\r\n\r\nCompras x Orçamentos/Pedidos\r\n- Correção ajuste do status do pedido de compra \"Parcial\" ou \"Total\".",
-    "anexos": [
-      {
-        "name": "RAMSolution.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.19/RAMSolution.exe",
-        "size": 42343424
-      }
-    ]
+    "description": "Orçamentos/Pedidos\r\n- Erro ao imprimir pedido padrão.\r\n- Erro ao gerar nota fiscal com os itens do kit/combo e não o item \"kit\".\r\n\r\nCompras x Orçamentos/Pedidos\r\n- Correção ajuste do status do pedido de compra \"Parcial\" ou \"Total\".",
+    "anexos": []
   }
 }
