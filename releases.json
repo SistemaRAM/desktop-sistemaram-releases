@@ -2104,5 +2104,18 @@
         "size": 42335744
       }
     ]
+  },
+  "18.0.2.20": {
+    "name": "18.0.2.20",
+    "tag": "18.0.2.20",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.20",
+    "description": "Expedição de Pedidos\r\n- Utilizar nome fantasia do cliente.\r\n\r\nProdução - Pesagem\r\n- Usar a data \"Data da Produção\" para dar entrada no estoque.\r\n\r\nFaturamento em Lote\r\n- Gerar NFe com itens do KIT - kit aberto. RAM_GERAR_NF_ITENS_KITCOMBO",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.20/RAMSolution.exe",
+        "size": 42336768
+      }
+    ]
   }
 }
