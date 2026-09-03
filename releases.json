@@ -2109,7 +2109,7 @@
     "name": "18.0.2.20",
     "tag": "18.0.2.20",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.20",
-    "description": "Expedição de Pedidos\r\n- Utilizar nome fantasia do cliente.\r\n\r\nProdução - Pesagem\r\n- Usar a data \"Data da Produção\" para dar entrada no estoque.\r\n\r\nFaturamento em Lote\r\n- Gerar NFe com itens do KIT - kit aberto. RAM_GERAR_NF_ITENS_KITCOMBO",
+    "description": "Expedição de Pedidos\r\n- Utilizar nome fantasia do cliente.\r\n\r\nProdução - Pesagem\r\n- Usar a data \"Data da Produção\" para dar entrada no estoque.\r\n\r\nFaturamento em Lote\r\n- Gerar NFe com itens do KIT - kit aberto. RAM_GERAR_NF_ITENS_KITCOMBO\r\n\r\nOrçamentos/Pedidos\r\n- CP e LM | No cademp LM, se colocar não na etiqueta por volume, não aparece volume no pedido\r\n\r\nHubram\r\n- Ajustar Visual do Erro\r\n- Portar tratativa de pedidos FULL do Mercado Livre para o HubRAM",
     "anexos": [
       {
         "name": "RAMSolution.exe",
