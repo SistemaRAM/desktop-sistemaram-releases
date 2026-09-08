@@ -2117,5 +2117,18 @@
         "size": 42336768
       }
     ]
+  },
+  "18.0.2.21": {
+    "name": "18.0.2.21",
+    "tag": "18.0.2.21",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.21",
+    "description": "Expedição Pesagem\r\n- Correção do BUG que não realiza consistir saldo quando data é retroativa.\r\n\r\nCadastro de Produtos\r\n- Adicionado opção no menu da aba de movimentação, \"Consistir saldo NULL\"",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.21/RAMSolution.exe",
+        "size": 42378240
+      }
+    ]
   }
 }
