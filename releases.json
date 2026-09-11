@@ -2130,5 +2130,18 @@
         "size": 42378240
       }
     ]
+  },
+  "18.0.2.22": {
+    "name": "18.0.2.22",
+    "tag": "18.0.2.22",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.22",
+    "description": "Transportadora x App Logística\r\n- Adicionado recurso de envio da \"carga\" para o nosso App Logística.\r\n\r\nOpção de Antecipação de Títulos \"FIDC\"\r\n- Habilitador por usuário, aba financeiro 3\r\n- Menu Principal - \"Financeiro\".\r\n\r\nExpedição Pedidos\r\n- Liberar seleção de produtos com lotes antigos.\r\n\r\nHub RAM\r\n- Ajuste visual erro.\r\n- Ao importar pedido, quando KIT, criar o pedido com os itens do KIT, KIT aberto.\r\n- Ajuste na importação do pedido quando o mesmo é FULL.\r",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.22/RAMSolution.exe",
+        "size": 42373120
+      }
+    ]
   }
 }
