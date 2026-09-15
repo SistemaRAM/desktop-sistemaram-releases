@@ -2143,5 +2143,18 @@
         "size": 42373120
       }
     ]
+  },
+  "18.0.2.23": {
+    "name": "18.0.2.23",
+    "tag": "18.0.2.23",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.23",
+    "description": "Expedição de Pedidos por Pesagem\r\n-  Parametrizar trava do FIFO.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.23/RAMSolution.exe",
+        "size": 42380288
+      }
+    ]
   }
 }
