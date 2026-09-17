@@ -2156,5 +2156,18 @@
         "size": 42380288
       }
     ]
+  },
+  "18.0.2.24": {
+    "name": "18.0.2.24",
+    "tag": "18.0.2.24",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.24",
+    "description": "DAV\r\n- Add observação delivery.\r\n\r\nDANFE\r\n- Correção quebra de linha da descrição do produto e a linha que separa os itens.\r\n\r\nFaturamento em Lote\r\n- Ajuste/Correção para gerar o KIT/Combo com itens aberto na nota fiscal.\r\n\r\nOrçamentos/Pedidos - Devolução com XML\r\n- Correção do calculo do IPI, somando o Frete.\r\n\r\nAntecipação FIDC\r\n- Após realizar uma antecipação, está precisando fechar o sistema e abrir novamente para limpar a tela e fazer uma nova antecipação. Ajustar isso precisa limpar após fechar.\r\n- Add opção de arquivos relacionados no registro da antecipação.\r\n- Ao gravar a antecipação o botão de confirmação está em inglês, traduzir.\r\n- Ao gerar a antecipação, trocar “titulo“ por “NF” do campo descrição.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.24/RAMSolution.exe",
+        "size": 42382336
+      }
+    ]
   }
 }
