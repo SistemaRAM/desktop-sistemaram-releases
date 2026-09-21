@@ -2169,5 +2169,18 @@
         "size": 42382336
       }
     ]
+  },
+  "18.0.2.25": {
+    "name": "18.0.2.25",
+    "tag": "18.0.2.25",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.25",
+    "description": "Estoque\r\n- Correção na movimentação da tela de transferência entre empresas.\r\n- Correção da rotina que ajusta saldo Kit/Combo na entrada e saída.\r\n\r\nTela de Inventário de Etiquetas\r\n- Novo recurso.\r\n\r\nDanfe NFe\r\n- Melhoria e correção da linha que separa os produtos\r\n\r\nCadastro de Marca x Cad. Produtos\r\n- Filtro sem \"Class. Comercial\", foi criado parâmetro para habilitar o filtro.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.25/RAMSolution.exe",
+        "size": 42413056
+      }
+    ]
   }
 }
