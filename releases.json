@@ -2182,5 +2182,18 @@
         "size": 42413056
       }
     ]
+  },
+  "18.0.2.26": {
+    "name": "18.0.2.26",
+    "tag": "18.0.2.26",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.26",
+    "description": "NFe - PIS/COFINS\r\n- Parâmetro para calcular valor do PIS/COFINS quando CST é 06\r\n\r\nHub RAM\r\nNovo Parâmetro para filtro de \"Canal\"\r\n\r\nRAM Catálogo\r\n- Importação do pedido, validar por Celular.\r\n\r\nExpedição Pesagem\r\n- opção de fracionar etiqueta - parâmetro.\r\n\r\nAjuste Tela de Inventário de Etiquetas - Câmara.\r",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.26/RAMSolution.exe",
+        "size": 42409984
+      }
+    ]
   }
 }
