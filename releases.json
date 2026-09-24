@@ -2201,6 +2201,12 @@
     "tag": "18.0.2.27",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.27",
     "description": "Atualização do Sistema Automática\r\n- Correção do Bug que só fica baixando o mesmo arquivo.\r\n- Ajuste para não executar o backup.\r\n- Puxando última versão do Git - RAMSolution.exe\r\n- Ajuste no solop para gerar a atualização para clientes atualizados, desta forma não dar erro nos antigos.\r\n\r\nDAV\r\n- Ajustes para Delivery.\r\n\r\nPedido 2 Vias\r\n- Add tipo do frete.\r\n- Quando pedido é uma \"Compra\" trocar a coluna Valor do IPI por \"% ICMS\".\r\n\r\nInventário Etiquetas\r\n- Ajustes na exportar para o Excel.\r\n\r\nTela de Expedição Pesagem\r\n- Quando fracionar uma etiqueta, gerar 2, 3 ... De acordo com o que foi fracionado.\r\n\r\nHub RAM\r\n- Importação do pedido x rateio do financeiro\r\n\r\nImportação Pedido Delivery\r\n- Melhoria na importação do cadastro do cliente\r\n- Add coluna frete\r\n- Gerar financeiro ou não do pedido (pago ou em aberto).\r\n\r\nNFE\r\n- Parâmetro para desativar o envio da chave de devolução por \"Item\".\r\n\r\nOrçamentos/Pedidos\r\n- Pedido de \"Perdas\" puxar preço de custo ou compra.\r\n\r\nAntecipação - FIDC\r\n- Add filtro para parcelas já pagas.\r\n- Ajuste formatação coluna valor.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.27/RAMSolution.exe",
+        "size": 42421760
+      }
+    ]
   }
 }
