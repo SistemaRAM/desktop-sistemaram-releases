@@ -2208,5 +2208,18 @@
         "size": 42421760
       }
     ]
+  },
+  "18.0.2.28": {
+    "name": "18.0.2.28",
+    "tag": "18.0.2.28",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.28",
+    "description": "Relatório de Produção\r\n- Add coluna classificação comercia do produto.\r\n\r\nAntecipação FIDC\r\n- Remover trava de titulo já baixado.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.28/RAMSolution.exe",
+        "size": 42412544
+      }
+    ]
   }
 }
