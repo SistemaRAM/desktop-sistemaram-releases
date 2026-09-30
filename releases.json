@@ -2221,5 +2221,18 @@
         "size": 42413568
       }
     ]
+  },
+  "18.0.2.29": {
+    "name": "18.0.2.29",
+    "tag": "18.0.2.29",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.29",
+    "description": "Hub RAM\r\n- Gerar financeiro com rateios das taxas.\r\n\r\nEstoque\r\n- Novo motor de calculo do estoque, mais rápido.\r\n\r\nNFe\r\n- CNPJ antigo para transmissão da nota no estado \"PR\".",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.29/RAMSolution.exe",
+        "size": 42343936
+      }
+    ]
   }
 }
