@@ -2247,5 +2247,18 @@
         "size": 42343936
       }
     ]
+  },
+  "18.0.2.31": {
+    "name": "18.0.2.31",
+    "tag": "18.0.2.31",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.31",
+    "description": "DAV / Delivery\r\n- Observação do item.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.31/RAMSolution.exe",
+        "size": 42479616
+      }
+    ]
   }
 }
