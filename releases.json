@@ -2260,5 +2260,18 @@
         "size": 42479616
       }
     ]
+  },
+  "18.0.2.32": {
+    "name": "18.0.2.32",
+    "tag": "18.0.2.32",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.32",
+    "description": "Cupom não fiscal \r\n- Corrigido corte das informações de parcelas pendentes.\r\n\r\nTela de Pesagem\r\n- adicionada função para salvar as configurações do grid.\r\n\r\nPDV \r\n- Pagamento com cheque: corrigido problema em que, ao gravar uma venda com a forma de pagamento Cheque.\r\n\r\nHub RAM \r\n- Rateio Financeiro Automático: ajustado para que o rateio financeiro seja realizado também ao gravar o pedido, e não somente durante a importação.\r\n\r\nApp Expedição\r\n- Mudanças para tornar multiempresa.\r\n- Melhoria na tela de inventário, com opção de Completo e Simples.\r\n- Integração com o ERP \r\n\r\nNFe - Devolução\r\n- Ajuste para não enviar a tag da chave de devolução no campo antigo.\r\n\r\nCapacidade de Entrega por Turno x Cidade\r\n- Customizações para um novo módulo no RAM integrado ao App de Vendas.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.2.32/RAMSolution.exe",
+        "size": 42476032
+      }
+    ]
   }
 }
