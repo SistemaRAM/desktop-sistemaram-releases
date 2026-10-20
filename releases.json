@@ -2291,7 +2291,7 @@
     "name": "18.0.2.34",
     "tag": "18.0.2.34",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.2.34",
-    "description": "Inventário\r\n- Ajuste para zerar saldo de produtos sem movimentação em estoque.\r\n- \r\nHub RAM\r\n- **Rateio Financeiro Automático:** ajustada a data do financeiro após o 3º retorno.\r\n\r\nPesagem\r\n- **Salvar grid na tela de pesagem:** reorganizados e agrupados os menus após retorno.\r\n\r\nSistema RAM - Impressão de Pedidos\r\n- Implementado **cupom impresso simplificado**.\r\n\r\nOrçamentos/Pedidos\r\n- Trava amostra limite de 20%.\r\n- Grid de serviços, ajuste das linhas.\r\n\r\nLog Usuários\r\n- Novo visual, novos recursos de rastreio e filtros.",
+    "description": "Inventário\r\n- Ajuste para zerar saldo de produtos sem movimentação em estoque.\r\n- Add tela e configuração para considerar status/pedidos com saldo reservado.\r\n\r\nHub RAM\r\n- **Rateio Financeiro Automático:** ajustada a data do financeiro após o 3º retorno.\r\n\r\nPesagem\r\n- **Salvar grid na tela de pesagem:** reorganizados e agrupados os menus após retorno.\r\n\r\nSistema RAM - Impressão de Pedidos\r\n- Implementado **cupom impresso simplificado**.\r\n\r\nOrçamentos/Pedidos\r\n- Trava amostra limite de 20%.\r\n- Grid de serviços, ajuste das linhas.\r\n\r\nLog Usuários\r\n- Novo visual, novos recursos de rastreio e filtros.",
     "anexos": []
   }
 }
