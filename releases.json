@@ -2299,5 +2299,18 @@
         "size": 42942976
       }
     ]
+  },
+  "18.0.3.0": {
+    "name": "18.0.3.0",
+    "tag": "18.0.3.0",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.0",
+    "description": "**Financeiro - DRE**\r\n- Tela de análise DRE.\r\n- Tela de vínculo da classificação financeira x DRE utilizando IA.\r\n\r\n**App Vendas e Sistema RAM**\r\n- Pedidos \"RETIRA\" não entram na soma da capacidade de entrega.\r\n\r\n**Orçamentos/Pedidos**\r\n- Lote FIFO do produto \"PAI\" no Kit/Combo.\r\n- Corrigir inconsistências no relatório de 1 via e o corte das observações.\r\n- Adicionar assinatura digital no pedido impresso de 1 via.\r\n\r\n**Tela Pedidos X Status (Kanban)**\r\n- Trava para não voltar à etapa anterior, mediante solicitação de senha master.\r\n\r\n**Cadastro Geral**\r\n- Não listar formas de pagamento bloqueadas na aba Financeiro.\r\n\r\n**PDV**\r\n- Não permitir sangria de valor superior ao saldo disponível no caixa.\r\n- Corrigir duplicação do cabeçalho do pedido em cupons DAV muito grandes.\r\n\r\n**Tela de Pesagem**\r\n- Etiquetas fracionadas de outras já fracionadas devem sempre mostrar o ID da etiqueta \"mãe\".\r\n\r\n**Cad. Produtos**\r\n- Permitir ajuste de saldo apenas do lote, mediante liberação por parâmetro.\r\n\r\n**Hub RAM**\r\n- Ajustar o rateio financeiro automático.\r\n- Se \"Gerar XML TESTE\" marcada, desconsiderar a validação de importação.\r\n\r\n**Cupom Impresso Simplificado**\r\n- Adicionar identificação de delivery.\r\n\r\n**Tela de Consignação**\r\n- Implementar personalização para a Sonho Dourado.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.0/RAMSolution.exe",
+        "size": 43390464
+      }
+    ]
   }
 }
