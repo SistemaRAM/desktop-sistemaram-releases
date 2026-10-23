@@ -2312,5 +2312,18 @@
         "size": 44112384
       }
     ]
+  },
+  "18.0.3.1": {
+    "name": "18.0.3.1",
+    "tag": "18.0.3.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.1",
+    "description": "Financeiro\r\n- Analise do Preço de Venda",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.1/RAMSolution.exe",
+        "size": 44889088
+      }
+    ]
   }
 }
