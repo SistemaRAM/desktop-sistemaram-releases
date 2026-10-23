@@ -2325,5 +2325,18 @@
         "size": 44889088
       }
     ]
+  },
+  "18.0.3.2": {
+    "name": "18.0.3.2",
+    "tag": "18.0.3.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.2",
+    "description": "Financeiro\r\n- Importação de extrato bancário OFX + IA para classificar.\r\n\r\nImportação de Pedidos X App Vendas\r\n- Ajuste para importar coluna/campo \"EXPEDIDORA\"\r\n\r",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.2/RAMSolution.exe",
+        "size": 45283840
+      }
+    ]
   }
 }
