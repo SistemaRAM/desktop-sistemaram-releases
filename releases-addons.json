@@ -49,6 +49,11 @@
     "description": "",
     "anexos": [
       {
+        "name": "ConfigBalanca.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/ConfigBalanca.exe",
+        "size": 3704832
+      },
+      {
         "name": "DLL.zip",
         "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/DLL.zip",
         "size": 73733924
