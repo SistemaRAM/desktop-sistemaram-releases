@@ -46,7 +46,7 @@
     "name": "Add-ons",
     "tag": "addons.0.0.2",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/addons.0.0.2",
-    "description": "",
+    "description": "## **Release de Add-ons**\r\n\r\nEsta release traz os addons utilizados pelo **SistemaRAM**.\r\n\r\n### Add-ons\r\n- ConfigBalanca.exe\r\n- DLL.zip\r\n- ImpressoraSystem.exe\r\n- LayoutsFast.zip\r\n- Login.ini\r\n- RAMCredito.exe\r\n- RAMPrinter.zip\r\n- Schemas.zip\r\n- WebView.zip\r\n\r\n---\r\n\r\n> Caso encontre qualquer problema, utilize a aba **Issues** para reportar.\r",
     "anexos": [
       {
         "name": "ConfigBalanca.exe",
