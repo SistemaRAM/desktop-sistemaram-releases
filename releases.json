@@ -2353,7 +2353,7 @@
     ]
   },
   "18.0.3.4": {
-    "name": "18.0.3.3",
+    "name": "18.0.3.4",
     "tag": "18.0.3.4",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.4",
     "description": "FIDC\r\n- Possibilidade de utilizar o título como lastro mesmo já realizado uma antecipação.\r\n\r\nReforma Tributária\r\n- importação de Produtos - Entrada via XML com novos campos.\r\n- Analise do Preço de Venda - cenário da reforma tributária para simular o preço.\r\n- Simulador de Preço em Formula do Produto, cenário da reforma tributária para simular o preço.",
