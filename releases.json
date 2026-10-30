@@ -2370,6 +2370,12 @@
     "tag": "18.0.3.6",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.6",
     "description": "Tela Pedidos x Status\r\n- Mensagem Whatsapp está saindo sem formatação.\r\n\r\nOrçamentos/Pedidos\r\n- Correção quando existem 2 produtos iguais porem com receitas diferentes.\r\n\r\nMDFe\r\n- Buscar dados da NFe/Chave em orçamentos/pedidos, notas de compra\r\n\r\nRelatório Pedidos Liberados\r\n- Puxar saldo do lote e não geral\r\n\r\nRelatórios\r\n- Extrato Financeiro: Implementado saldo acumulado por dia.\r\n- Pedido Não Fiscal: Ajustado para funcionar com cadastro compartilhado.\r\n- Filtro de UF: Implementada seleção múltipla de estados por grupo.\r\n\r\nConsignação\r\n- Implementadas melhorias no processo de consignação para o cliente Sonho Dourado.\r\n\r\nEtiquetas\r\n- Ajustada a impressão de etiquetas para o cliente EB Artes.\r\n\r\nTela de Pesagem\r\n- Implementada customização na tela de pesagem para o cliente Nalin, com automação do processo.\r\n\r",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.6/RAMSolution.exe",
+        "size": 47161856
+      }
+    ]
   }
 }
