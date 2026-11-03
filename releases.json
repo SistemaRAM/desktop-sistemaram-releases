@@ -2383,6 +2383,12 @@
     "tag": "18.0.3.7",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.7",
     "description": "Faturamento - Sistema RAM\r\n- Reenviar NFSe. (Corrigi dados de cliente e transmiti a NFSe).\r\n\r\nOrçamentos/Pedidos - Entrada de XML\r\n- XML com o mesmo \"cProd\" e a tag \"cEAN\" sem informação. Sistema está realizando a busca e vinculo pela descrição.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.7/RAMSolution.exe",
+        "size": 47169536
+      }
+    ]
   }
 }
