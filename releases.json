@@ -2396,6 +2396,12 @@
     "tag": "18.0.3.8",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.8",
     "description": "Regra de redução de ICMS por NCM\r\n- Ajuste para não sobrescrever a regra de importação x produto nacional.\r\n\r\nImportação de Pedidos Catálogo\r\n- Ajuste para salvar a tabela  de preço utilizada na plataforma do catálogo.\r\n\r\nImportação Pedido App\r\n- Ajuste para considerar pedido como \"ORÇAMENTO\"  na capacidade do turno.\r\n\r\nOrçamentos/Pedidos\r\n- Ajuste para aceitar o valor 230.000,00 no campo de preço inicial.\r\n\r\nPedidos não fiscais – St Tereza\r\n\r\n- Correção do corte no nome do cliente na impressão do pedido não fiscal.\r\n\r\nIntegração Ideris – Rubram\r\n\r\n- Ajuste para permitir o relacionamento de formas de pagamento no formato 1:N.\r\n\r\nRelatórios – UC\r\n\r\n- Correção do relatório de 1 via, ajustando inconsistências e evitando o corte das observações.",
-    "anexos": []
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.8/RAMSolution.exe",
+        "size": 47115264
+      }
+    ]
   }
 }
