@@ -2403,5 +2403,18 @@
         "size": 47115264
       }
     ]
+  },
+  "18.0.3.9": {
+    "name": "18.0.3.9",
+    "tag": "18.0.3.9",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.9",
+    "description": "Peso Balança\r\n- Ajustes.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.9/RAMSolution.exe",
+        "size": 47115264
+      }
+    ]
   }
 }
