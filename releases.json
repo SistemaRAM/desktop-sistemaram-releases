@@ -2416,5 +2416,18 @@
         "size": 47115264
       }
     ]
+  },
+  "18.0.3.10": {
+    "name": "18.0.3.10",
+    "tag": "18.0.3.10",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.10",
+    "description": "Importação de Pedidos App Vendas\r\n- Correção.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.10/RAMSolution.exe",
+        "size": 47112704
+      }
+    ]
   }
 }
