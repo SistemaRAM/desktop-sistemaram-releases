@@ -2429,5 +2429,18 @@
         "size": 47112704
       }
     ]
+  },
+  "18.0.3.11": {
+    "name": "18.0.3.11",
+    "tag": "18.0.3.11",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.11",
+    "description": "Relatórios\r\n- Ajuste erro.",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.11/RAMSolution.exe",
+        "size": 47117312
+      }
+    ]
   }
 }
