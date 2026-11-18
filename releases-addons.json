@@ -49,9 +49,14 @@
     "description": "## **Release de Add-ons**\r\n\r\nEsta release traz os addons utilizados pelo **SistemaRAM**.\r\n\r\n### Add-ons\r\n- ConfigBalanca.exe\r\n- DLL.zip\r\n- ImpressoraSystem.exe\r\n- LayoutsFast.zip\r\n- Login.ini\r\n- RAMCredito.exe\r\n- RAMPrinter.zip\r\n- Schemas.zip\r\n- WebView.zip\r\n\r\n---\r\n\r\n> Caso encontre qualquer problema, utilize a aba **Issues** para reportar.\r",
     "anexos": [
       {
-        "name": "ConfigBalanca.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/ConfigBalanca.exe",
-        "size": 3704832
+        "name": "Login.ini",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/Login.ini",
+        "size": 31
+      },
+      {
+        "name": "WebView.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/WebView.zip",
+        "size": 64684
       },
       {
         "name": "DLL.zip",
@@ -59,19 +64,14 @@
         "size": 73733924
       },
       {
+        "name": "Schemas.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/Schemas.zip",
+        "size": 7936916
+      },
+      {
         "name": "ImpressoraSystem.exe",
         "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/ImpressoraSystem.exe",
         "size": 2470912
-      },
-      {
-        "name": "LayoutsFast.zip",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/LayoutsFast.zip",
-        "size": 161074
-      },
-      {
-        "name": "Login.ini",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/Login.ini",
-        "size": 31
       },
       {
         "name": "RAMCredito.exe",
@@ -79,19 +79,14 @@
         "size": 4485120
       },
       {
-        "name": "RAMPrinter.zip",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/RAMPrinter.zip",
-        "size": 374199080
+        "name": "LayoutsFast.zip",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/LayoutsFast.zip",
+        "size": 161074
       },
       {
-        "name": "Schemas.zip",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/Schemas.zip",
-        "size": 7936916
-      },
-      {
-        "name": "WebView.zip",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/WebView.zip",
-        "size": 64684
+        "name": "ConfigBalanca.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/addons.0.0.2/ConfigBalanca.exe",
+        "size": 3704832
       }
     ]
   }
