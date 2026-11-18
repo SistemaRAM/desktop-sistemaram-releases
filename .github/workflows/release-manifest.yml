@@ -98,7 +98,26 @@ jobs:
             [ -z "$NAME" ] && NAME="$TAG"
             LINK=$(echo "$RELEASE_JSON" | jq -r '.url')
             DESCRIPTION=$(echo "$RELEASE_JSON" | jq -r '.body // empty')
-            echo "$RELEASE_JSON" | jq '[.assets[] | {name: .name, url: .url, size: .size}]' > anexos.json
+
+            # Anexos via REST API: expõe `digest` (sha256:...) calculado pelo GitHub.
+            gh api "repos/$GH_REPO/releases/tags/$TAG" \
+              --jq '[.assets[] | {id: .id, name: .name, url: .browser_download_url, size: .size, sha256: ((.digest // "") | sub("^sha256:"; ""))}]' \
+              > assets_raw.json
+
+            # Fallback: se o GitHub não informou o digest, baixa o anexo e calcula.
+            echo '[]' > anexos.json
+            while read -r ASSET; do
+              SHA=$(echo "$ASSET" | jq -r '.sha256')
+              if [ -z "$SHA" ]; then
+                ID=$(echo "$ASSET" | jq -r '.id')
+                echo "Digest ausente para $(echo "$ASSET" | jq -r '.name'); calculando via download..."
+                SHA=$(gh api -H "Accept: application/octet-stream" "repos/$GH_REPO/releases/assets/$ID" | sha256sum | cut -d' ' -f1)
+              fi
+              jq --argjson a "$ASSET" --arg sha "$SHA" \
+                '. + [{name: $a.name, url: $a.url, size: $a.size, sha256: $sha}]' \
+                anexos.json > anexos.tmp && mv anexos.tmp anexos.json
+            done < <(jq -c '.[]' assets_raw.json)
+            rm -f assets_raw.json
           fi
 
           {
