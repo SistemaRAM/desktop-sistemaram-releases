@@ -1,9 +1,9 @@
 {
   "ramprint.0.0.0.1": {
-    "name": "ramprint.0.0.0.1",
+    "name": "ramprint.0.0.0.1 Beta",
     "tag": "ramprint.0.0.0.1",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/ramprint.0.0.0.1",
-    "description": "",
+    "description": "Beta",
     "anexos": [
       {
         "name": "RAMPrint.exe",
