@@ -1,18 +1,4 @@
 {
-  "ramprint.0.0.0.1": {
-    "name": "ramprint.0.0.0.1",
-    "tag": "ramprint.0.0.0.1",
-    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/ramprint.0.0.0.1",
-    "description": "Beta",
-    "anexos": [
-      {
-        "name": "RAMPrint.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/ramprint.0.0.0.1/RAMPrint.exe",
-        "size": 2270208,
-        "sha256": "594dc8c4501bbbdb19049332574cab12f7a6551e24e0ca601b0d1bb5d4103430"
-      }
-    ]
-  },
   "ramprint.1.0.0.0": {
     "name": "ramprint.1.0.0.0",
     "tag": "ramprint.1.0.0.0",
