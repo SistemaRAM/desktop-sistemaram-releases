@@ -5,7 +5,7 @@ O workflow `.github/workflows/release-manifest.yml` lê o nome da tag e, pelo **
 ## Regra de detecção
 
 ```bash
-^(manager|comandas|instaladores|drivers|add-?ons)\.(.+)$
+^(manager|comandas|instaladores|drivers|ramprint|add-?ons)\.(.+)$
 ```
 
 - Formato: `<prefixo>.<versão>` (o ponto após o prefixo é obrigatório e precisa ter algo depois).
@@ -21,6 +21,7 @@ O workflow `.github/workflows/release-manifest.yml` lê o nome da tag e, pelo **
 | `comandas.` | `releases-comandas.json` | `comandas.1.0.4` | App/módulo de Comandas |
 | `instaladores.` | `releases-instaladores.json` | `instaladores.2.0.0` | Instaladores |
 | `drivers.` | `releases-drivers.json` | `drivers.1.1.0` | Drivers |
+| `ramprint.` | `releases-ramprint.json` | `ramprint.1.0.0` | RAMPrint |
 | `add-ons.` ou `addons.` | `releases-addons.json` | `add-ons.1.0.0` | Add-ons (o RAManager os localiza por esse padrão) |
 
 > Os usos de cada produto são inferidos pelo nome; ajuste a descrição se algum estiver diferente.
