@@ -26,5 +26,19 @@
         "sha256": "c3bd66c8170ed93c16756cd634bb13764658ce96c36efd3be9f5e4bcb7982bc2"
       }
     ]
+  },
+  "ramprint.1.0.0.2": {
+    "name": "ramprint.1.0.0.2",
+    "tag": "ramprint.1.0.0.2",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/ramprint.1.0.0.2",
+    "description": "Fix Config",
+    "anexos": [
+      {
+        "name": "RAMPrint.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/ramprint.1.0.0.2/RAMPrint.exe",
+        "size": 3238912,
+        "sha256": "c62514b092cf7179a9897c429e524b698cbf2c45cc44cf7c4ca3f2bd773af416"
+      }
+    ]
   }
 }
