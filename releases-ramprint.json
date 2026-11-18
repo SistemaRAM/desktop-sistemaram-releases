@@ -11,5 +11,18 @@
         "size": 2270208
       }
     ]
+  },
+  "ramprint.0.0.0.1": {
+    "name": "ramprint.0.0.0.1",
+    "tag": "ramprint.0.0.0.1",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/ramprint.0.0.0.1",
+    "description": "",
+    "anexos": [
+      {
+        "name": "RAMPrint.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/ramprint.0.0.0.1/RAMPrint.exe",
+        "size": 2270208
+      }
+    ]
   }
 }
