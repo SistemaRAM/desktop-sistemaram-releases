@@ -8,7 +8,8 @@
       {
         "name": "RAMPrint.exe",
         "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/ramprint.0.0.0.1/RAMPrint.exe",
-        "size": 2270208
+        "size": 2270208,
+        "sha256": "594dc8c4501bbbdb19049332574cab12f7a6551e24e0ca601b0d1bb5d4103430"
       }
     ]
   }
