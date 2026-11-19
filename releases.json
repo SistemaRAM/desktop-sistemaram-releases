@@ -2442,5 +2442,19 @@
         "size": 47117312
       }
     ]
+  },
+  "18.0.3.12": {
+    "name": "18.0.3.12",
+    "tag": "18.0.3.12",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.12",
+    "description": "Giro de Estoque\r\n  - Corrigido erro ao gerar as informações da tela para o cliente JRE.\r\n\r\nForça de Vendas\r\n  - Incluído campo de observação livre no registro de visita (check-in), gravado no Sistema RAM.\r\n\r\nCadastro de Produtos\r\n  - Aba Combo/Kit: passa a exibir apenas os componentes da empresa atual (antes aparecia kit de outras empresas com o mesmo código).\r\n\r\nOrçamentos/Pedidos\r\n  - Receita: número do pedido e cabeçalho passam a ser impressos em todas as páginas do documento.\r\n  - Copiar pedido: o novo pedido não herda mais o status do pedido original.\r\n  - Pedido de saída impresso: passa a listar o % de ICMS (rotina de cálculo fiscal desacoplada).\r\n\r\nBoletos (CNAB 400 Itaú)\r\n  - Incluída a data inicial de cobrança da multa de 2%, aplicada automaticamente a partir do 1º dia de atraso.\r\n\r\nRelatórios\r\n  - Movimentos financeiros: corrigida a duplicação de lançamentos em blocos quando o título tinha mais de um pagamento parcial.\r",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.12/RAMSolution.exe",
+        "size": 47123968,
+        "sha256": "3cec295b3dec0d463d1b2c5511681cb1de1f2b4d8ba64e898c3bba36dbd41dd2"
+      }
+    ]
   }
 }
