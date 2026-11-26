@@ -2462,13 +2462,6 @@
     "tag": "18.0.3.13",
     "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.13",
     "description": "Customizações Tabela de Preços\r\n- Promoção\r\n- Comissão\r\n- Pr. Mínimo\r\n- App Vendas Web\r\n\r\nEstoque / NFC-e\r\n  - Ao transmitir uma NFC-e, o registro da venda no estoque passa a gravar o número da NFC-e, igual ao que já ocorre com NF-e.\r\n\r\nPesagem\r\n  - Correção de regressão\r\n\r\nRelatórios\r\n  - Relatório Financeiro, tipo 4 (Resumo por Classificação Financeira): corrigido o erro \"Insufficient memory for this operation\" ao gerar períodos longos (ex.: ano inteiro).\r",
-    "anexos": [
-      {
-        "name": "RAMSolution.exe",
-        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.13/RAMSolution.exe",
-        "size": 48006656,
-        "sha256": "b416915ee4f477fa8bc4b41f14a757a0ab29b1c3ccc6c10cf23451fa4781c0ae"
-      }
-    ]
+    "anexos": []
   }
 }
