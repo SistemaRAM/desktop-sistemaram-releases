@@ -2456,5 +2456,19 @@
         "sha256": "3cec295b3dec0d463d1b2c5511681cb1de1f2b4d8ba64e898c3bba36dbd41dd2"
       }
     ]
+  },
+  "18.0.3.13": {
+    "name": "18.0.3.13",
+    "tag": "18.0.3.13",
+    "link": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/tag/18.0.3.13",
+    "description": "Customizações Tabela de Preços\r\n- Promoção\r\n- Comissão\r\n- Pr. Mínimo\r\n- App Vendas Web",
+    "anexos": [
+      {
+        "name": "RAMSolution.exe",
+        "url": "https://github.com/SistemaRAM/desktop-sistemaram-releases/releases/download/18.0.3.13/RAMSolution.exe",
+        "size": 48006656,
+        "sha256": "022be487cb525604e6ce25e0af5fe8884a0bdff580f3f31d705ee832452c9944"
+      }
+    ]
   }
 }
